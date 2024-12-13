@@ -1,0 +1,62 @@
+{
+   "_activeDate": "2022-05-21T16:45:00.000Z",
+   "_locale": "en-US",
+   "_noIndex": false,
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameMOTD",
+   "_title": "playlistinformation",
+   "conversion_config": {
+      "_type": "Conversion Config",
+      "containerName": "playlist_info",
+      "contentName": "playlists",
+      "enableReferences": true
+   },
+   "frontend_matchmaking_header_style": "Basic",
+   "frontend_matchmaking_header_text": "RLCS Spring Major @ Rocket League Live!",
+   "frontend_matchmaking_header_text_description": "RLCS Spring Major @ Rocket League Live!",
+   "is_tile_hidden": true,
+   "lastModified": "2022-07-03T16:56:58.653Z",
+   "playlist_info": {
+      "_type": "Playlist Information",
+      "playlists": [
+         {
+            "_type": "FortPlaylistInfo",
+            "display_name": "Dev Autoflush Solo",
+            "hidden": false,
+            "playlist_name": "Playlist_Bots_DefaultSolo",
+            "violator": ""
+         },
+         {
+            "_type": "FortPlaylistInfo",
+            "display_name": "Dev Autoflush Duo",
+            "hidden": false,
+            "playlist_name": "Playlist_Bots_DefaultDuo",
+            "violator": ""
+         },
+         {
+            "_type": "FortPlaylistInfo",
+            "display_name": "Dev Autoflush Squads",
+            "hidden": false,
+            "playlist_name": "Playlist_Bots_DefaultSquad",
+            "violator": ""
+         },
+         {
+            "_type": "FortPlaylistInfo",
+            "display_subname": "-",
+            "hidden": false,
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LTM-Tile_Playground-1024x512-53db8a4b5fb41251af279eaf923bc00ecbc17792.jpg",
+            "playlist_name": "Playlist_Creative_PlayOnly",
+            "special_border": "None",
+            "violator": ""
+         },
+         {
+            "_type": "FortPlaylistInfo",
+            "hidden": false,
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LTM-Tile_Playground-1024x512-53db8a4b5fb41251af279eaf923bc00ecbc17792.jpg",
+            "playlist_name": "Playlist_Creative_PlayOnly_40",
+            "special_border": "None"
+         }
+      ]
+   },
+   "show_ad_violator": false
+}
