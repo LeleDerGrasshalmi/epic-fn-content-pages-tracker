@@ -1,0 +1,40 @@
+{
+   "_activeDate": "2018-06-20T18:15:07.002Z",
+   "_locale": "en-US",
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameMOTD",
+   "_title": "BattlePassAboutMessages",
+   "lastModified": "2019-01-24T00:45:00.904Z",
+   "news": {
+      "_type": "Battle Royale News",
+      "messages": [
+         {
+            "_type": "CommonUI Simple Message Base",
+            "body": "Play to level up your Battle Pass. The more you play, the more rewards you earn. Level up faster by completing Weekly Challenges. Earn up to 100 rewards worth over 25,000 V-Bucks (typically takes 75 to 150 hours of play). You can purchase the Battle Pass anytime during the season for 950 V-Bucks.",
+            "hidden": false,
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_7/BR07_In-Game_Upsell_How-Does-it-Work-1024x1024-d222377e2eb009abd35da611e3720a87f6e14da0.png",
+            "layout": "Right Image",
+            "spotlight": false,
+            "title": "HOW DOES IT WORK?"
+         },
+         {
+            "_type": "CommonUI Simple Message Base",
+            "body": "When you buy the Battle Pass, you’ll instantly receive two exclusive progressive outfits - Zenith and Lynx! You can also earn exclusive rewards including emotes, outfits, pets, pickaxes, loading screens and new surprises. You’ll receive a reward each time you level up. 100 tiers total for over 100 rewards.\n\nThere’s also new challenges every week! These challenges unlock even more Battle Pass rewards.",
+            "hidden": false,
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_7/BR07_In-Game_Upsell_What's-Inside-1024x1024-bb0b6196099fdaf2a63475effc07da70fb02edeb.png",
+            "layout": "Left Image",
+            "spotlight": false,
+            "title": "WHAT’S INSIDE?"
+         },
+         {
+            "_type": "CommonUI Simple Message Base",
+            "body": "Give your weapons and vehicles a new look with Wraps. Level up your Battle Pass to unlock different Wraps, then equip them in your locker to items like vehicles, shotguns, rifles and more.",
+            "hidden": false,
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_7/BR07_In-Game_Upsell_Introducing-Wraps-1024x1024-b6efdbea11341484e12d0624a08be350d7594c1b.png",
+            "layout": "Left Image",
+            "spotlight": false,
+            "title": "INTRODUCING WRAPS!"
+         }
+      ]
+   }
+}

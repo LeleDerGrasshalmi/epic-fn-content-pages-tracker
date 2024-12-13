@@ -1,0 +1,25 @@
+{
+   "_activeDate": "2018-10-25T18:35:49.659Z",
+   "_locale": "en-US",
+   "_suggestedPrefetch": [],
+   "_templateName": "koreancafe",
+   "_title": "KoreanCafe",
+   "cafe_info": {
+      "_type": "PCBs",
+      "cafes": [
+         {
+            "_type": "PCB Info",
+            "korean_cafe": "PCB.Partner.Neowiz",
+            "korean_cafe_description": "ON",
+            "korean_cafe_header": "PC CAFE BENEFITS"
+         },
+         {
+            "_type": "PCB Info",
+            "korean_cafe": "PCB.Partner.Other",
+            "korean_cafe_description": "ON",
+            "korean_cafe_header": "PC CAFE BENEFITS"
+         }
+      ]
+   },
+   "lastModified": "2019-01-24T00:45:00.731Z"
+}

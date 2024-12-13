@@ -1,0 +1,33 @@
+{
+   "_activeDate": "2018-08-06T18:25:46.770Z",
+   "_locale": "en-US",
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameMOTD",
+   "_title": "SaveTheWorldNews",
+   "lastModified": "2019-01-24T00:45:05.075Z",
+   "news": {
+      "_type": "Battle Royale News",
+      "messages": [
+         {
+            "_type": "CommonUI Simple Message Base",
+            "adspace": "EVENT STORE!",
+            "body": "This clever cat uses high level technology to enter slow fall and take down enemies from above.",
+            "hidden": false,
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v720/StW07_MOTD_-TechCatNinja-1024x512-5e05900a22cb2a04c01338ebc7127f7cb50cedd5.jpg",
+            "messagetype": "sale",
+            "spotlight": false,
+            "title": "Tech Cat Ninja"
+         },
+         {
+            "_type": "CommonUI Simple Message Base",
+            "adspace": "WEEK 4 CHALLENGE",
+            "body": "Cold Chaos! Enemies gain modifiers when damaged. Complete this challenge to earn a Legendary Weapon.",
+            "hidden": false,
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v720/StW07_MOTD_-Week4Challenge-1024x512-9cbffd76d2edff6bffd8fc8b6794a22b2ea13ace.jpg",
+            "messagetype": "sale",
+            "spotlight": false,
+            "title": "Frostnite"
+         }
+      ]
+   }
+}
