@@ -1,0 +1,95 @@
+{
+   "_activeDate": "2020-01-22T00:00:00.000Z",
+   "_locale": "en-US",
+   "_noIndex": false,
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameMOTD",
+   "_title": "Creativenews",
+   "alwaysShow": false,
+   "header": "",
+   "lastModified": "2020-09-10T08:42:38.873Z",
+   "news": {
+      "_type": "Battle Royale News",
+      "messages": [
+         {
+            "_type": "CommonUI Simple Message Base",
+            "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+            "hidden": false,
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+            "messagetype": "normal",
+            "spotlight": false,
+            "title": "Keep Your Account Secure"
+         }
+      ],
+      "motds": [],
+      "platform_motds": [
+         {
+            "_type": "CommonUI Simple Message MOTD Platform",
+            "hidden": false,
+            "message": {
+               "_type": "CommonUI Simple Message MOTD",
+               "body": "Apple has blocked your ability to update Fortnite on the App Store, and has said they will terminate our ability to develop Fortnite for Apple devices. As a result, Chapter 2 - Season 4 (v14.00) is unavailable on your device.",
+               "entryType": "Text",
+               "hidden": true,
+               "id": "Apple Sustained Release",
+               "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+               "sortingPriority": 99,
+               "spotlight": false,
+               "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+               "title": "Chapter 2 - Season 4 Notice",
+               "videoAutoplay": false,
+               "videoFullscreen": false,
+               "videoLoop": false,
+               "videoMute": false,
+               "videoStreamingEnabled": false
+            },
+            "platform": "mac"
+         },
+         {
+            "_type": "CommonUI Simple Message MOTD Platform",
+            "hidden": false,
+            "message": {
+               "_type": "CommonUI Simple Message MOTD",
+               "body": "With the launch of Season 4, players on Google Play will be unable to play the new Season. On this platform, players can still play version v13.40.",
+               "entryType": "Text",
+               "hidden": true,
+               "id": "Google Sustained Release",
+               "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+               "sortingPriority": 99,
+               "spotlight": false,
+               "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+               "title": "Chapter 2 - Season 4 Notice",
+               "videoAutoplay": false,
+               "videoFullscreen": false,
+               "videoLoop": false,
+               "videoMute": false,
+               "videoStreamingEnabled": false
+            },
+            "platform": "androidGP"
+         },
+         {
+            "_type": "CommonUI Simple Message MOTD Platform",
+            "hidden": false,
+            "message": {
+               "_type": "CommonUI Simple Message MOTD",
+               "body": "Apple has blocked your ability to update Fortnite on the App Store, and has said they will terminate our ability to develop Fortnite for Apple devices. As a result, Chapter 2 - Season 4 (v14.00) is unavailable on your device.",
+               "entryType": "Text",
+               "hidden": true,
+               "id": "Apple Sustained Release",
+               "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+               "sortingPriority": 99,
+               "spotlight": false,
+               "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+               "title": "Chapter 2 - Season 4 Notice",
+               "videoAutoplay": false,
+               "videoFullscreen": false,
+               "videoLoop": false,
+               "videoMute": false,
+               "videoStreamingEnabled": false
+            },
+            "platform": "ios"
+         }
+      ]
+   },
+   "style": "None"
+}

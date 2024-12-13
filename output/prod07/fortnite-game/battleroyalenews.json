@@ -1,0 +1,91 @@
+{
+   "_activeDate": "2020-01-21T14:00:00.000Z",
+   "_locale": "en-US",
+   "_noIndex": false,
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameMOTD",
+   "_title": "battleroyalenews",
+   "alwaysShow": false,
+   "header": "",
+   "lastModified": "2021-09-12T17:34:19.796Z",
+   "news": {
+      "_type": "Battle Royale News",
+      "messages": [
+         {
+            "_type": "CommonUI Simple Message Base",
+            "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+            "hidden": false,
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+            "messagetype": "normal",
+            "spotlight": false,
+            "title": "Keep Your Account Secure"
+         }
+      ],
+      "platform_motds": [
+         {
+            "_type": "CommonUI Simple Message MOTD Platform",
+            "hidden": false,
+            "message": {
+               "_type": "CommonUI Simple Message MOTD",
+               "body": "",
+               "entryType": "Text",
+               "hidden": true,
+               "id": "Apple Sustained Release",
+               "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+               "spotlight": false,
+               "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+               "title": "Chapter 2 - Season 4 Notice",
+               "videoAutoplay": false,
+               "videoFullscreen": false,
+               "videoLoop": false,
+               "videoMute": false,
+               "videoStreamingEnabled": false
+            },
+            "platform": "mac"
+         },
+         {
+            "_type": "CommonUI Simple Message MOTD Platform",
+            "hidden": false,
+            "message": {
+               "_type": "CommonUI Simple Message MOTD",
+               "body": "With the launch of Season 4, players on Google Play will be unable to play the current Season. On this platform, players can still play version v13.40.",
+               "entryType": "Text",
+               "hidden": true,
+               "id": "Google Sustained Release",
+               "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+               "spotlight": false,
+               "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+               "title": "Chapter 2 - Season 4 Notice",
+               "videoAutoplay": false,
+               "videoFullscreen": false,
+               "videoLoop": false,
+               "videoMute": false,
+               "videoStreamingEnabled": false
+            },
+            "platform": "androidGP"
+         },
+         {
+            "_type": "CommonUI Simple Message MOTD Platform",
+            "hidden": false,
+            "message": {
+               "_type": "CommonUI Simple Message MOTD",
+               "body": "",
+               "entryType": "Text",
+               "hidden": true,
+               "id": "Apple Sustained Release",
+               "image": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1920x1080-1920x1080-735237418.jpg",
+               "spotlight": false,
+               "tileImage": "https://cdn2.unrealengine.com/13br-freefortnite-motd-1024x512-1024x512-735237414.jpg",
+               "title": "Chapter 2 - Season 4 Notice",
+               "videoAutoplay": false,
+               "videoFullscreen": false,
+               "videoLoop": false,
+               "videoMute": false,
+               "videoStreamingEnabled": false
+            },
+            "platform": "ios"
+         }
+      ]
+   },
+   "style": "None"
+}

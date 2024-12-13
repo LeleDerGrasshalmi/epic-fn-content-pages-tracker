@@ -1,0 +1,25 @@
+{
+   "_activeDate": "2023-11-03T07:30:00.000Z",
+   "_locale": "en-US",
+   "_noIndex": false,
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameDynamicBackgrounds",
+   "_title": "dynamicbackgrounds",
+   "backgrounds": {
+      "_type": "DynamicBackgroundList",
+      "backgrounds": [
+         {
+            "_type": "DynamicBackground",
+            "backgroundimage": "https://cdn2.unrealengine.com/ch6s1-lobby-2048x1024-218a4754f2a0.jpg",
+            "key": "lobby",
+            "stage": "season3300"
+         },
+         {
+            "_type": "DynamicBackground",
+            "key": "vault",
+            "stage": "default"
+         }
+      ]
+   },
+   "lastModified": "2024-12-01T05:48:55.180Z"
+}

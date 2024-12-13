@@ -1,0 +1,2037 @@
+{
+   "_activeDate": "2024-11-27T23:45:00.000Z",
+   "_locale": "en-US",
+   "_noIndex": true,
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameShopOfferVisuals",
+   "_title": "shopOfferVisuals",
+   "lastModified": "2024-12-12T19:28:40.020Z",
+   "visualsList": {
+      "_type": "ShopOfferVisualList",
+      "offerPresentations": [
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/b-sid-placeholder-10-1024x1024-2b4804df37df.png"
+               }
+            ],
+            "visualId": "b_sid_placeholder_10"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-shakecrunch-01-1024x1024-acc261b24568.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-shakecrunch-maskon-02-1024x1024-9e77b11e3363.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-shakecrunch-outlineoff-03-1024x1024-9e54fbd0c593.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-shakecrunch-juno-1024x1024-a182e1e69aac.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Bundle_Featured_ShakeCrunch_Static.DAv2_Bundle_Featured_ShakeCrunch_Static"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-puffinsmile-br-1024x1024-66e40ab6b94a.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-puffinsmile-jn-1024x1024-941ec6cf0e1f.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Character_PuffinSmile.DAv2_Character_PuffinSmile"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-intensecello-1024x1024-168e6dd22f69.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-intensecello-1024x1024-b10f896cce38.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Character_IntenseCello.DAv2_Character_IntenseCello"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-unluckyroll-01-1024x1024-1ae8cae83caa.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-unluckyroll-02-1024x1024-20f7411da234.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-unluckyroll-jn-1024x1024-dd49179cb97b.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Bundle_Featured_UnluckyRoll_Static.DAv2_Bundle_Featured_UnluckyRoll_Static"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-kelplinen-1024x1024-9c1890f9a635.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-kelplinen-02-1024x1024-ae1639c795f9.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S32/DAv2_Bundle_Featured_KelpLinen.DAv2_Bundle_Featured_KelpLinen"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-shoes-breathtalecalla-pair-1024x1024-60ebbdf61648.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S32/DAv2_Shoes_BreathTaleCalla.DAv2_Shoes_BreathTaleCalla"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-partygold-1024x1024-939bf037347b.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-partygold-1024x1024-e33e273531ea.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S32/DAv2_Character_PartyGold.DAv2_Character_PartyGold"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/jam-cms-1024x875-327c50d41124.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S32/DAv2_Bundle_Featured_Jam.DAv2_Bundle_Featured_Jam"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-architect-critterraven-juno-1024x1024-059b821f4452.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-architect-critterraven-1024x1024-5dbb6f7d184f.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S32/DAv2_Bundle_Featured_Architect_CritterRaven.DAv2_Bundle_Featured_Architect_CritterRaven"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-hid-073-athena-commando-f-scuba-1024x1024-04229807d513.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-sharkshankerb-1024x1024-42fb86a7d1b5.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_073_F_Scuba.DAv2_CID_073_F_Scuba"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-steaksting-1024x1024-e3b680b9fd18.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Character_SteakSting.DAv2_Character_SteakSting"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenaglider-024-reaper-v2-1024x1024-8d9bfcd917ed.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Glider_ID_024_Reaper.DAv2_Glider_ID_024_Reaper"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-groovyreader-01-1024x1024-3340de217f51.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-groovyreader-02-1024x1024-c9b0c9a299fa.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-groovyreader-03-1024x1024-545f4866f7fe.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-groovyreader-jn-1024x1024-a79b0685e93b.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S27/DAv2_Bundle_Featured_GroovyReader.DAv2_Bundle_Featured_GroovyReader"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-mistresssombre-1024x1024-0b11f44c7d31.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-mistresssombre-jn-v2-1024x1024-9a9b4a2cb3a1.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Bundle_Featured_MistressSombre_Static.DAv2_Bundle_Featured_MistressSombre_Static"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-flowervase-1024x1024-02cab618b234.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-flowervase-jn-1024x1024-b1cd1d41f3e2.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Bundle_Featured_FlowerVase_Static.DAv2_Bundle_Featured_FlowerVase_Static"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-afternoon-1024x1024-3e4c1d2f8b80.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-afternoon-jn-v2-1024x1024-88a6f4b8cdde.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Bundle_Featured_Afternoon.DAv2_Bundle_Featured_Afternoon"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/cid-868-athena-commando-m-backspin-3u6ca-01-1024x1024-085fcb5037f2.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/cid-868-athena-commando-m-backspin-3u6ca-02-1024x1024-449b4742682e.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_868_M_Backspin_3U6CA.DAv2_CID_868_M_Backspin_3U6CA"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-bundle-caffeine-1024x1024-7e322045e6b8-1024x1024-2c4cf7808c7f.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Bundle_Featured_Caffeine.DAv2_Bundle_Featured_Caffeine"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-featured-elbowchat-1024x1024-1f67832cefb3.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-featured-elbowchat-jn-1024x1024-849af415b8de.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Bundle_Featured_ElbowChat.DAv2_Bundle_Featured_ElbowChat"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-haybrush-1024x1024-67add972efa7.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-haybrush-1024x1024-56b70c45dd9f.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Character_HayBrush.DAv2_Character_HayBrush"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-burntbagel-1024x1024-a870413e02a8.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-pumpkinking-1024x1024-956861df4c14.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Bundle_Featured_BurntBagel.DAv2_Bundle_Featured_BurntBagel"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-donutaccbundle-1024x1024-015d2b1bfdd4.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundles_Donut_Accessories1.DAv2_Bundles_Donut_Accessories1"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-bundle-sid-placeholder-378-1024x1024-ea36effa5c06.png"
+               }
+            ],
+            "visualId": "b_sid_placeholder_378"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-character-emeraldglassrebel-05-1024x1024-e64b80e974d0.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-character-emeraldglassrebel-06-1024x1024-2ee3b5e8159d.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S23/DAv2_Bundle_Featured_emeraldglassrebel.DAv2_Bundle_Featured_emeraldglassrebel"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-ht-brightdisk-04-2-1024x1024-d92a12c48ae0.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-ht-brightdisk-02-2-1024x1024-76628ca14708.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-ht-brightdisk-01-2-1024x1024-3d3fa04bb631.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-ht-brightdisk-03-2-1024x1024-93945337b0d9.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-brightdisk-1024x1024-8ad445864b0f.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S31/DAv2_Character_BrightDisk.DAv2_Character_BrightDisk"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/flakes-br-2-2048x1024-71b582c081e5.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/flakes-br-3-2048x1024-e534ee52e1dc.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/flakes-juno-2-2600x1024-246454b9ac8b.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S23/DAv2_Bundle_Featured_OceanBreeze.DAv2_Bundle_Featured_OceanBreeze"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-luqp-psychicaphid-da-2048x2048-7e031b6cc3cb.png"
+               }
+            ],
+            "visualId": "/Plugins/OfferCatalog/NewDisplayAssets/S31/DAv2_RMT_PsychicAphid.DAv2_RMT_PsychicAphid"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-drum-honeybear-1024x1024-335724fcc45b.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S28/DAv2_Drum_HoneyBear.DAv2_Drum_HoneyBear"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/sid-bundle9-twotrackv2-512x512-313284242149.png"
+               }
+            ],
+            "visualId": "b_sid_placeholder_9"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-darkbomber-br-v2-1024x1024-cb394bb3356f.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-darkbomber-juno-v2-1024x1024-5c4f6317129d.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S28/DAv2_Bundle_Featured_DarkBomber.DAv2_Bundle_Featured_DarkBomber"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-sweetletter-1024x1024-14ff2fa18577.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-sweetletter-02-1024x1024-d0d3a0086ba0.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-sweetletter-1024x1024-3d61db47d43b.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S31/DAv2_Character_SweetLetter.DAv2_Character_SweetLetter"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-speeddial-1024x1024-4e99fa6b98a1.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-speeddial-02-1024x1024-d1f1a243260c.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-speeddial-03-1024x1024-a9ca2730343a.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-speeddial-04-1024x1024-b70465f0e6a6.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-speeddial-05-1024x1024-fd45beb12139.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S28/DAv2_Bundle_Featured_SpeedDial.DAv2_Bundle_Featured_SpeedDial"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-upbeatiguana-gear-v2-1024x1024-495cd353b126.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S30/DAv2_Bundle_Featured_UpbeatIguana_Gear.DAv2_Bundle_Featured_UpbeatIguana_Gear"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cattlejar-1024x1024-17b32a135fc7.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cattlejar-juno-1024x1024-acc8b3908c48.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S31/DAv2_Character_CattleJar.DAv2_Character_CattleJar"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-featured-pickaxes-mastermind-shadow-pickaxe-v5-1024x924-f6acd3189183.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_ShadowPickaxe_Bundle.DAv2_Featured_ShadowPickaxe_Bundle"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-sharpdresser-6262127066d5.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-sharpdressera-1024x1024-f08c944214cb.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_171_M_SharpDresser.DAv2_CID_171_M_SharpDresser"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-pickaxe-quietpeanuts-02-1024x1024-1a8d525710b1.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-quietpeanutsc-1024x1024-009a5daac678.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S28/DAv2_Bundle_Featured_QuietPeanuts.DAv2_Bundle_Featured_QuietPeanuts"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/tathenabundlescharacterpeacefulpoem-1024x1024-000c5026ddb3.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-peacefulpoem-1024x1024-e90b7c44be65.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S25/DAv2_Bundle_Featured_PeacefulPoem.DAv2_Bundle_Featured_PeacefulPoem"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/tui-featured-micspeeddial-1024x1024-b32e0f1eb57e.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S31/DAv2_Sparks_Mic_SpeedDial.DAv2_Sparks_Mic_SpeedDial"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/tui-featured-bassspeeddial-1024x1024-f49a2a32bbe6.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S31/DAv2_Sparks_Bass_SpeedDial.DAv2_Sparks_Bass_SpeedDial"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-paddedarmororder-1024x1024-b9c57e56890a.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/tuifeaturedfigurepaddedarmorordera-1024x1024-89b753893f7b.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_061_M_PaddedArmorOrder.DAv2_CID_A_061_M_PaddedArmorOrder"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles--skigbr-1024x1024-41e49039472d.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Ski_GBR.DAv2_Bundle_Featured_Ski_GBR"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles--skifra-1024x1024-9175cd5d4180.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Ski_FRA.DAv2_Bundle_Featured_Ski_FRA"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles--skican-1024x1024-de31efa7caa8.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Ski_CAN.DAv2_Bundle_Featured_Ski_CAN"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-streetracerwhite-1024x1024-85508197cdef.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S22/DAv2_Bundle_Featured_StreetRacerWhite.DAv2_Bundle_Featured_StreetRacerWhite"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/staticrewind-herotiletexture-2048x2048-ce35be1cd80e.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/billboard-staticrewind-herotile-juno-2048x2048-0a9704ffcdfa.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S30/DAv2_Character_StaticRewind.DAv2_Character_StaticRewind"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-rmt-lockjaw-starter-pack-da-1024x1024-e8b81349cefe.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S30/DAv2_RMT_LockjawStarter_QP.DAv2_RMT_LockjawStarter_QP"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/sid-bundle7-512x1024-8b9f747303ed.jpg"
+               }
+            ],
+            "visualId": "b_sid_placeholder_7"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/b-sid-placeholder-6-1-512x512-d40f7047a3f3.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/b-sid-placeholder-6-2-512x512-eeddb305c98c.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/b-sid-placeholder-6-3-512x512-58871f62bbb3.png"
+               }
+            ],
+            "visualId": "b_sid_placeholder_6"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/b-sid-placeholder-5-464x552-9a6b53fee5e0.jpg"
+               }
+            ],
+            "visualId": "b_sid_placeholder_5"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-sid-bundle1-1024x1024-1a60bac24c6f.jpg"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-sid-bundle-02-1024x1024-37a324006f17.jpg"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-sid-bundle-03-1024x1024-58a447260eba.jpg"
+               }
+            ],
+            "visualId": "b_sid_bundle1"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/b-sid-bundle2-464x552-6391610c6677.jpg"
+               }
+            ],
+            "visualId": "b_sid_bundle2"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/jamtrackbundle-blink182-464x432-101942afe138.png"
+               }
+            ],
+            "visualId": "b_sid_placeholder_141"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/jamtrackbundle-blink182-464x432-101942afe138.png"
+               }
+            ],
+            "visualId": "b_sid_placeholder_146"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/album5doubleewide-464x552-89c7ea5b9bde.jpg"
+               }
+            ],
+            "visualId": "sid_sparksdookie"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/album01-512x1024-a8d946f3e07d.png"
+               }
+            ],
+            "visualId": "sid_sparksnin"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/album02-512x1024-6964761d61cf.png"
+               }
+            ],
+            "visualId": "sid_sparksolivia"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/album03-512x1024-632093386a6b.png"
+               }
+            ],
+            "visualId": "sid_sparksu2"
+         }
+      ],
+      "visuals": [
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/b-sid-placeholder-10-1024x1024-2b4804df37df.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_placeholder_10"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/t-ui-featured-bundle-sid-placeholder-378-1024x1024-ea36effa5c06.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_placeholder_378"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/sid-bundle9-twotrackv2-512x512-313284242149.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_placeholder_9"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/t-ui-sid-bundle1-1024x1024-1a60bac24c6f.jpg",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ],
+                  "parentMaterialDataPath": ""
+               },
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/t-ui-sid-bundle-02-1024x1024-37a324006f17.jpg",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               },
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/t-ui-sid-bundle-03-1024x1024-58a447260eba.jpg",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_bundle1"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/b-sid-bundle2-464x552-6391610c6677.jpg",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_bundle2"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/b-sid-placeholder-5-464x552-9a6b53fee5e0.jpg",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_placeholder_5"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/sid-bundle4-swipe1-512x1024-a490838e451b.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ],
+                  "parentMaterialDataPath": ""
+               },
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/sid-bundle4-swipe2-512x1024-1d06dd7bd9c5.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               },
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/sid-bundle4-swipe3-512x1024-9fb7e9c65ace.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               },
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/sid-bundle4-swipe4-512x1024-7a8f0550926c.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_placeholder_6"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/sid-bundle7-512x1024-8b9f747303ed.jpg",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_placeholder_7"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/b-sid-placeholder-146-464x432-b014bd2e5c39.jpg",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_placeholder_141"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/b-sid-placeholder-146-464x432-b014bd2e5c39.jpg",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_placeholder_146"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/album5doublewide-464x552-a5a573aaa9e5.jpg",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "sid_sparksdookie"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/album01-512x1024-a8d946f3e07d.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "sid_sparksnin"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/album02-512x1024-6964761d61cf.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "sid_sparksolivia"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/album03-512x1024-632093386a6b.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "sid_sparksu2"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OffsetImage_Y",
+                        "scalarValue": 15,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1,
+                           "x": 0,
+                           "y": 0,
+                           "z": 0
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1,
+                           "x": 0.00316,
+                           "y": 0.044147,
+                           "z": 0.102431
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/t-athenabundles-oblong-newnew-1024x1024-90c5a0ad6eaa.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Position_Y",
+                        "scalarValue": 40,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Position_X",
+                        "scalarValue": 107,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Intensity",
+                        "scalarValue": 80,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Size",
+                        "scalarValue": 120,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Position_Y",
+                        "scalarValue": 1,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Position_X",
+                        "scalarValue": 100,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Hardness",
+                        "scalarValue": 14.5,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ],
+                  "parentMaterialDataPath": "/Game/Catalog/MI_OfferImages/A_Dealership/Body/MI_Bundle_Featured_Oblong.MI_Bundle_Featured_Oblong"
+               }
+            ],
+            "visualID": "oblong_DA"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OffsetImage_Y",
+                        "scalarValue": 15,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1,
+                           "x": 0.006228,
+                           "y": 0.019055,
+                           "z": 0.102431
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/t-athenabundles-body-sourdough-new-1024x1024-00bb4857bc30.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Position_Y",
+                        "scalarValue": 30,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Position_X",
+                        "scalarValue": 110,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Intensity",
+                        "scalarValue": 90,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Size",
+                        "scalarValue": 120,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Position_Y",
+                        "scalarValue": 0,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Position_X",
+                        "scalarValue": 100,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Hardness",
+                        "scalarValue": 14.5,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ],
+                  "parentMaterialDataPath": "/Game/Catalog/MI_OfferImages/A_Dealership/Body/MI_Bundle_Featured_Sourdough.MI_Bundle_Featured_Sourdough"
+               }
+            ],
+            "visualID": "sourdough_DA"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OffsetImage_Y",
+                        "scalarValue": 15,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/t-athenabundles-bundle-squash-new-1024x1024-dbc4bf149817.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Position_Y",
+                        "scalarValue": 25,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Position_X",
+                        "scalarValue": 110,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Intensity",
+                        "scalarValue": 95,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Size",
+                        "scalarValue": 120,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Position_Y",
+                        "scalarValue": 0,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Position_X",
+                        "scalarValue": 100,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Hardness",
+                        "scalarValue": 14.5,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ],
+                  "parentMaterialDataPath": "/Game/Catalog/MI_OfferImages/A_Dealership/Body/MI_Bundle_Featured_Squash.MI_Bundle_Featured_Squash"
+               }
+            ],
+            "visualID": "squash_DA"
+         },
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OffsetImage_Y",
+                        "scalarValue": 15,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/t-athenabundles-rebar-new-1024x1024-5ad0f1d320b3.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Position_Y",
+                        "scalarValue": 35,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Position_X",
+                        "scalarValue": 106,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Spotlight_Intensity",
+                        "scalarValue": 93,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Size",
+                        "scalarValue": 120,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Position_Y",
+                        "scalarValue": 0,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Position_X",
+                        "scalarValue": 100,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Gradient_Hardness",
+                        "scalarValue": 13.5,
+                        "type": "scalar",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ],
+                  "parentMaterialDataPath": "/Game/Catalog/MI_OfferImages/A_Dealership/Body/MI_Bundle_Featured_Rebar.MI_Bundle_Featured_Rebar"
+               }
+            ],
+            "visualID": "rebar_DA"
+         }
+      ]
+   }
+}

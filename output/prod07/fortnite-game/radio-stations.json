@@ -1,0 +1,70 @@
+{
+   "_activeDate": "2024-11-01T23:00:00.000Z",
+   "_locale": "en-US",
+   "_noIndex": false,
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameRadioStations",
+   "_title": "Radio Stations",
+   "lastModified": "2024-11-01T13:38:14.485Z",
+   "radioStationList": {
+      "_type": "RadioStationList",
+      "stations": [
+         {
+            "_type": "RadioStationItem",
+            "gameplayTagDenylist": [
+               "*UGC*",
+               "*Creative*"
+            ],
+            "resourceID": "eaIPyhOJafbnZUIYnZ",
+            "stationImage": "https://cdn2.unrealengine.com/s15-radio-rl-rockroyale-256x256-256x256-c2b19d746f09.png",
+            "title": "Rock & Royale"
+         },
+         {
+            "_type": "RadioStationItem",
+            "resourceID": "jdowniYVhDGgZLYhgm",
+            "stationImage": "https://cdn2.unrealengine.com/s13-radio-party-royale-256x256-256x256-41b6d427e012.png",
+            "title": "Party Royale"
+         },
+         {
+            "_type": "RadioStationItem",
+            "gameplayTagDenylist": [
+               "*UGC*",
+               "*Creative*"
+            ],
+            "resourceID": "utHgQidSxmOzBNWSRs",
+            "stationImage": "https://cdn2.unrealengine.com/s13-radio-radio-yonder-256x256-256x256-f9a05292b87c.png",
+            "title": "Radio Yonder"
+         },
+         {
+            "_type": "RadioStationItem",
+            "gameplayTagDenylist": [
+               "*UGC*",
+               "*Creative*"
+            ],
+            "resourceID": "gjqlfLXmalyNaDhzvK",
+            "stationImage": "https://cdn2.unrealengine.com/s13-radio-beat-box-256x256-256x256-19277d48c502.png",
+            "title": "Beat Box"
+         },
+         {
+            "_type": "RadioStationItem",
+            "gameplayTagDenylist": [
+               "*UGC*",
+               "*Creative*"
+            ],
+            "resourceID": "dWkLynOluUUuCAPJHA",
+            "stationImage": "https://cdn2.unrealengine.com/s13-radio-power-play-256x256-256x256-2f3bacc8ecbf.png",
+            "title": "Power Play"
+         },
+         {
+            "_type": "RadioStationItem",
+            "gameplayTagDenylist": [
+               "*UGC*",
+               "*Creative*"
+            ],
+            "resourceID": "WQaQbnGzaPXXMHGQXt",
+            "stationImage": "https://cdn2.unrealengine.com/s13-radio-icon-series-256x256-256x256-10d5c5081910.png",
+            "title": "Icon Radio"
+         }
+      ]
+   }
+}

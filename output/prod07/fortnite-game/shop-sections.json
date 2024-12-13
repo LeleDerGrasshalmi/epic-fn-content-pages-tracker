@@ -1,0 +1,4774 @@
+{
+   "_activeDate": "2023-09-27T21:00:00.000Z",
+   "_locale": "en-US",
+   "_noIndex": false,
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameShopSections",
+   "_title": "shop-sections",
+   "lastModified": "2023-10-18T13:47:43.007Z",
+   "sectionList": {
+      "_type": "ShopSectionList",
+      "sections": [
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 85,
+            "sectionDisplayName": "Customize Your Hero!",
+            "sectionId": "CustomizeHero"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Hero Gear",
+            "sectionId": "HeroGear"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 83,
+            "sectionDisplayName": "Goalbound",
+            "sectionId": "Goalbound"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Goalbound",
+            "sectionId": "Goalbound2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Goalbound",
+            "sectionId": "Goalbound3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 75,
+            "sectionDisplayName": "Origins",
+            "sectionId": "Origins"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 50,
+            "sectionDisplayName": "Origins",
+            "sectionId": "OriginsB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "My Hero Academia",
+            "sectionId": "HeroAca3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "My Hero Academia",
+            "sectionId": "HeroAca5"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 55,
+            "sectionDisplayName": "Styles from every season in Chapter 2",
+            "sectionId": "SecondDrop"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Styles from every season in Chapter 2",
+            "sectionId": "SecondDrop2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 75,
+            "sectionDisplayName": "Second Drop Set",
+            "sectionId": "SecondDrop3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 60,
+            "sectionDisplayName": "Customize Your Hero!",
+            "sectionId": "CustomizeHeroB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Hero Gear",
+            "sectionId": "HeroGearB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 35,
+            "sectionDisplayName": "Goalbound",
+            "sectionId": "Goalbound2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Goalbound",
+            "sectionId": "Goalbound3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Goalbound",
+            "sectionId": "GoalboundB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 25,
+            "sectionDisplayName": "Styles from every season in Chapter 2",
+            "sectionId": "SecondDrop2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Styles from every season in Chapter 2",
+            "sectionId": "SecondDrop3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Second Drop Set",
+            "sectionId": "SecondDropB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars4"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars5"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars7"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 81,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm3.1"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 80,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm3.2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 79,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 40,
+            "sectionDisplayName": "My Hero Academia",
+            "sectionId": "HeroAca1"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "My Hero Academia",
+            "sectionId": "HeroAca2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "My Hero Academia",
+            "sectionId": "HeroAca4"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 99,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars6"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars8"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars9"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars10"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars12"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 97,
+            "sectionDisplayName": "Customize Your Academy Look!",
+            "sectionId": "AcademyChampions"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Customize Your Academy Look!",
+            "sectionId": "AcademyChampions2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Academy Champion Gear",
+            "sectionId": "AcademyChampions3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 96,
+            "sectionDisplayName": "Wrap-Enabled",
+            "sectionId": "LuminaryVision1"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Wrap-Enabled",
+            "sectionId": "LuminaryVision2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 94,
+            "sectionDisplayName": "Becky Lynch & Bianca Belair",
+            "sectionId": "BeckyBianca"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 93,
+            "sectionDisplayName": "Celebrating Women",
+            "sectionId": "CelebratingWomen"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 92,
+            "sectionDisplayName": "Everyday Magic Bundle",
+            "sectionId": "EverydayMagic"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 91,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm1"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 90,
+            "sectionDisplayName": "MaddyNF's Locker Bundle",
+            "sectionId": "MaddyNF"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 89,
+            "sectionDisplayName": "Chopstix's Locker Bundle",
+            "sectionId": "Chopstix"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 88,
+            "sectionDisplayName": "Dylexa's Locker Bundle",
+            "sectionId": "Dylexa"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 87,
+            "sectionDisplayName": "Chloe Kim",
+            "sectionId": "ChloeKim"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 86,
+            "sectionDisplayName": "AmaBlitz's Locker Bundle",
+            "sectionId": "AmaBlitz"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 84,
+            "sectionDisplayName": "Vanessuh's Locker",
+            "sectionId": "vanessuh"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 83,
+            "sectionDisplayName": "Autumn Shop",
+            "sectionId": "Oktober/Autumn"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Autumn Shop",
+            "sectionId": "Oktober/Autumn2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 82,
+            "sectionDisplayName": "Banner Brigade",
+            "sectionId": "BannerBrigade"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Banner Brigade",
+            "sectionId": "BannerBrigade2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Banner Brigade",
+            "sectionId": "Bannerbrigade3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Banner Brigade",
+            "sectionId": "Bannerbrigade4"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 81,
+            "sectionDisplayName": "Squad Origins - Styles from every season in Chapter 1",
+            "sectionId": "Squadorigins"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Squad Origins Bundles",
+            "sectionId": "Squadorigins2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Squad Origins Bundles",
+            "sectionId": "Squadorigins3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 80,
+            "sectionDisplayName": "Alien Abduction",
+            "sectionId": "Alienabduction"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Alien Abduction",
+            "sectionId": "Alienabduction2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 79,
+            "sectionDisplayName": "Choose country styles or make your own look!",
+            "sectionId": "LetThemKnow"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Choose country styles or make your own look!",
+            "sectionId": "LetThemKnow2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Let Them Know",
+            "sectionId": "LetThemKnow3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 78,
+            "sectionDisplayName": "Get Far Out",
+            "sectionId": "Farout"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Get Far Out",
+            "sectionId": "Farout2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 71,
+            "sectionDisplayName": "Customize Your Academy Look!",
+            "sectionId": "AcademyChampionsB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Customize Your Academy Look!",
+            "sectionId": "AcademyChampions2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Academy Champion Gear",
+            "sectionId": "AcademyChampions3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 70,
+            "sectionDisplayName": "Wrap-Enabled",
+            "sectionId": "LuminaryVision1B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Wrap-Enabled",
+            "sectionId": "LuminaryVision2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 65,
+            "sectionDisplayName": "Alien Abduction",
+            "sectionId": "AlienabductionB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Alien Abduction",
+            "sectionId": "Alienabduction2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 64,
+            "sectionDisplayName": "MaddyNF's Locker Bundle",
+            "sectionId": "MaddyNFB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 63,
+            "sectionDisplayName": "Autumn Shop",
+            "sectionId": "Oktober/AutumnB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Autumn Shop",
+            "sectionId": "Oktober/Autumn2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 62,
+            "sectionDisplayName": "Celebrating Women",
+            "sectionId": "CelebratingWomenB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 61,
+            "sectionDisplayName": "Everyday Magic Bundle",
+            "sectionId": "EverydayMagicB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 60,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "MoreOffersWomen"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 59,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "MoreOffersWomen2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "MoreOffersWomen3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "MoreOffersWomen4"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 59,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "MoreOffersWomenB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "MoreOffersWomen2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "MoreOffersWomen3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "MoreOffersWomen4B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 58,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm6B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Becky Lynch & Bianca Belair",
+            "sectionId": "BeckyBiancaB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 57,
+            "sectionDisplayName": "My Hero Academia",
+            "sectionId": "HeroAca1B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "My Hero Academia",
+            "sectionId": "HeroAca2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "My Hero Academia",
+            "sectionId": "HeroAca3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "My Hero Academia",
+            "sectionId": "HeroAca4B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "My Hero Academia",
+            "sectionId": "HeroAca5B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 39,
+            "sectionDisplayName": "Chloe Kim",
+            "sectionId": "ChloeKimB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 38,
+            "sectionDisplayName": "AmaBlitz's Locker Bundle",
+            "sectionId": "AmaBlitzB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 37,
+            "sectionDisplayName": "Chopstix's Locker Bundle",
+            "sectionId": "ChopstixB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 36,
+            "sectionDisplayName": "Dylexa's Locker Bundle",
+            "sectionId": "DylexaB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 34,
+            "sectionDisplayName": "Vanessuh's Locker",
+            "sectionId": "vanessuhB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 33,
+            "sectionDisplayName": "Choose country styles or make your own look!",
+            "sectionId": "LetThemKnowB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Choose country styles or make your own look!",
+            "sectionId": "LetThemKnow2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Let Them Know",
+            "sectionId": "LetThemKnow3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 32,
+            "sectionDisplayName": "Squad Origins - Styles from every season in Chapter 1",
+            "sectionId": "SquadoriginsB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Squad Origins Bundles",
+            "sectionId": "Squadorigins2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Squad Origins Bundles",
+            "sectionId": "Squadorigins3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 31,
+            "sectionDisplayName": "Banner Brigade",
+            "sectionId": "BannerBrigadeB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Banner Brigade",
+            "sectionId": "BannerBrigade2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Banner Brigade",
+            "sectionId": "Bannerbrigade3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Banner Brigade",
+            "sectionId": "Bannerbrigade4B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 30,
+            "sectionDisplayName": "Get Far Out",
+            "sectionId": "FarOutB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Get Far Out",
+            "sectionId": "Farout2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR4B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 86,
+            "sectionDisplayName": "Flakes Power",
+            "sectionId": "FlakesPower"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "lobby",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 83,
+            "sectionDisplayName": "Ingrid's Locker Bundle",
+            "sectionId": "Ingrid"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 98,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC4"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC5"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC6"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC7"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC8"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC9"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC10"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC11"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 97,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall1"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall4"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall5"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall6"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall7"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 96,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel4"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel5"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel6"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 95,
+            "sectionDisplayName": "The Kid LAROI",
+            "sectionId": "KidLaroi"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "The Kid LAROI",
+            "sectionId": "KidLaroi2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": false,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 92,
+            "sectionDisplayName": "Kaws",
+            "sectionId": "Kaws"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 95,
+            "sectionDisplayName": "In Space...",
+            "sectionId": "InSpace"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "In Space...",
+            "sectionId": "InSpace2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 97,
+            "sectionDisplayName": "FNCS Global Championship 2023",
+            "sectionId": "FNCS2023"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 70,
+            "sectionDisplayName": "FNCS Global Championship 2023",
+            "sectionId": "FNCS20232"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 85,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons4"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons5"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons6"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons7"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons8"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons9"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons10"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 96,
+            "sectionDisplayName": "Survivors In Arms",
+            "sectionId": "SurvivorsInArmsRF1"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Survivors In Arms",
+            "sectionId": "SurvivorsInArmsRF2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 95,
+            "sectionDisplayName": "Alan Wake",
+            "sectionId": "AlanWake"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 94,
+            "sectionDisplayName": "Rick and Morty",
+            "sectionId": "RickMorty1"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Rick and Morty",
+            "sectionId": "RickMorty2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Rick and Morty",
+            "sectionId": "RickMorty3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 93,
+            "sectionDisplayName": "Jack Skellington",
+            "sectionId": "JackSkellington"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 92,
+            "sectionDisplayName": "The Shape",
+            "sectionId": "MichaelMyers"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 85,
+            "sectionDisplayName": "BlackOutz's Locker",
+            "sectionId": "BlackOutz"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 84,
+            "sectionDisplayName": "Nikof's Locker",
+            "sectionId": "Nikof"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 82,
+            "sectionDisplayName": "Letiltz's Locker",
+            "sectionId": "Letiltz"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 80,
+            "sectionDisplayName": "Nyanjitsu",
+            "sectionId": "Azuki"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 75,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured3"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured4"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured5"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured6"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured7"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured8"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured9"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured10"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Featured",
+            "sectionId": "Featured11"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 70,
+            "sectionDisplayName": "Daily",
+            "sectionId": "Daily"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 60,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "special"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "special2"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 72,
+            "sectionDisplayName": "Jack Skellington",
+            "sectionId": "JackSkellingtonB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 71,
+            "sectionDisplayName": "The Shape",
+            "sectionId": "MichaelMyersB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 70,
+            "sectionDisplayName": "Knowby Cabin",
+            "sectionId": "KnowbyCabinBB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 75,
+            "sectionDisplayName": "Survivors In Arms",
+            "sectionId": "SurvivorsInArmsRF1B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Survivors In Arms",
+            "sectionId": "SurvivorsInArmsRF2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 74,
+            "sectionDisplayName": "Alan Wake",
+            "sectionId": "AlanWakeB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 68,
+            "sectionDisplayName": "Knowby Cabin",
+            "sectionId": "KnowbyCabinB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": false,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": false,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 70,
+            "sectionDisplayName": "FNCS Global Championship 2023",
+            "sectionId": "FNCS2023B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "FNCS Global Championship 2023",
+            "sectionId": "FNCS20232B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 95,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "MarvelB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel4B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel5B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Marvel",
+            "sectionId": "Marvel6B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 98,
+            "sectionDisplayName": "The Kid LAROI",
+            "sectionId": "KidLaroiB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "lobby",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "The Kid LAROI",
+            "sectionId": "KidLaroi2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 95,
+            "sectionDisplayName": "In Space...",
+            "sectionId": "InSpaceB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "In Space...",
+            "sectionId": "InSpace2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Kaws",
+            "sectionId": "KawsB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "lobby",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 73,
+            "sectionDisplayName": "Rick and Morty",
+            "sectionId": "RickMorty1B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Rick and Morty",
+            "sectionId": "RickMorty2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Rick and Morty",
+            "sectionId": "RickMorty3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 69,
+            "sectionDisplayName": "Nyanjitsu",
+            "sectionId": "AzukiB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 67,
+            "sectionDisplayName": "Ingrid's Locker Bundle",
+            "sectionId": "IngridB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 67,
+            "sectionDisplayName": "BlackOutz's Locker",
+            "sectionId": "BlackOutzB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 66,
+            "sectionDisplayName": "Nikof's Locker",
+            "sectionId": "NikofB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 65,
+            "sectionDisplayName": "Letiltz's Locker",
+            "sectionId": "LetiltzB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 63,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "specialB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "More Offers",
+            "sectionId": "special2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 86,
+            "sectionDisplayName": "Flakes Power",
+            "sectionId": "FlakesPowerB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 78,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "StarwarsB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars6B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars8B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars9B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars10B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Star Wars",
+            "sectionId": "Starwars12B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 77,
+            "sectionDisplayName": "DC",
+            "sectionId": "DCB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC4B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC5B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC6B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC7B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC8B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC9B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC10B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "DC",
+            "sectionId": "DC11B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 76,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall1B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall4B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall5B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall6B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Dragon Ball",
+            "sectionId": "DragonBall7B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 50,
+            "sectionDisplayName": "Icons",
+            "sectionId": "IconsB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons3B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons4B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons5B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons6B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons7B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons8B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons9B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Icons",
+            "sectionId": "Icons10B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR191B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR192B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR18B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR17B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR16B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR15B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR14AB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR14BB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR14CB"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR13B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR12B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR11B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR10B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR9B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR8B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR7B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR6B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR51B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR52B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR6"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR7"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "FortnitemaresR8"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm51B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm52B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm4B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm31B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm32B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 1,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm2B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 90,
+            "sectionDisplayName": "Fortnitemares",
+            "sectionId": "fnm1B"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": true,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 100,
+            "sectionDisplayName": "Earn levels and unlock rewards!",
+            "sectionId": "LUQP"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": false,
+            "bHidden": false,
+            "bShowIneligibleOffers": false,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": false,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 88,
+            "sectionDisplayName": "Battle Pass",
+            "sectionId": "Battlepass"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": false,
+            "bHidden": false,
+            "bShowIneligibleOffers": true,
+            "bShowIneligibleOffersIfGiftable": false,
+            "bShowTimer": false,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 89,
+            "sectionDisplayName": "Fortnite Crew",
+            "sectionId": "Subscription"
+         },
+         {
+            "_type": "ShopSection",
+            "background": {
+               "_type": "DynamicBackground",
+               "key": "vault",
+               "stage": "default"
+            },
+            "bEnableToastNotification": true,
+            "bHidden": false,
+            "bShowIneligibleOffers": false,
+            "bShowIneligibleOffersIfGiftable": true,
+            "bShowTimer": false,
+            "bSortOffersByOwnership": false,
+            "landingPriority": 87,
+            "sectionDisplayName": "Special Offers & Bundles",
+            "sectionId": "LimitedTime"
+         }
+      ]
+   }
+}

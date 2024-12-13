@@ -1,0 +1,17 @@
+{
+   "_activeDate": "2017-08-30T03:08:31.687Z",
+   "_locale": "en-US",
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameMOTD",
+   "_title": "athenamessage",
+   "lastModified": "2017-11-10T15:38:47.250Z",
+   "overrideablemessage": {
+      "_type": "CommonUI Simple Message",
+      "message": {
+         "_type": "CommonUI Simple Message Base",
+         "body": "Test",
+         "image": "https://cdn2.unrealengine.com/Fortnite/RUS-Axe-1921x1082-fb41e51e9a280b9752b42e2b94b31e34d5758870.png",
+         "title": "Test"
+      }
+   }
+}

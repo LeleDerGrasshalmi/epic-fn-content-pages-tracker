@@ -1,0 +1,39 @@
+{
+   "_activeDate": "2019-11-05T05:00:00.000Z",
+   "_locale": "en-US",
+   "_noIndex": false,
+   "_suggestedPrefetch": [],
+   "_templateName": "SubgameInfo",
+   "_title": "SubgameInfo",
+   "battleroyale": {
+      "_type": "Subgame Info",
+      "color": "5b2569",
+      "description": "100 Player PvP",
+      "image": "https://cdn2.unrealengine.com/19br-subgameselect-512x1024-4c4c08628e91.png",
+      "standardMessageLine1": "",
+      "standardMessageLine2": "",
+      "subgame": "battleroyale",
+      "title": "Battle Royale"
+   },
+   "creative": {
+      "_type": "Subgame Info",
+      "color": "0658b9",
+      "description": "Your Islands. Your Friends. Your Rules.",
+      "image": "https://cdn2.unrealengine.com/subgameselect-cr-512x1024-371f42541731.png",
+      "standardMessageLine1": "",
+      "subgame": "creative",
+      "title": "Creative"
+   },
+   "lastModified": "2022-01-06T13:12:53.445Z",
+   "savetheworld": {
+      "_type": "Subgame Info",
+      "color": "7615E9FF",
+      "description": "Cooperative PvE Adventure",
+      "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/StW/09_SubgameSelect_Default_StW-512x1024-e47f51e25cbe9943678b9221056a808e81da40e3.jpg",
+      "specialMessage": "",
+      "standardMessageLine1": "",
+      "standardMessageLine2": "",
+      "subgame": "savetheworld",
+      "title": "Save The World"
+   }
+}

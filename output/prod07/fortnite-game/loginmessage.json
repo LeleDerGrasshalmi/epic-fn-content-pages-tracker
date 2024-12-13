@@ -1,0 +1,16 @@
+{
+   "_activeDate": "2017-07-19T13:14:04.490Z",
+   "_locale": "en-US",
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameMOTD",
+   "_title": "LoginMessage",
+   "lastModified": "2018-03-15T07:10:22.222Z",
+   "loginmessage": {
+      "_type": "CommonUI Simple Message",
+      "message": {
+         "_type": "CommonUI Simple Message Base",
+         "body": "",
+         "title": ""
+      }
+   }
+}

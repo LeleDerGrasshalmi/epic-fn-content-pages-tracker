@@ -1,0 +1,15 @@
+{
+   "_activeDate": "2021-06-21T00:00:00.000Z",
+   "_locale": "en-US",
+   "_noIndex": false,
+   "_script": "\t",
+   "_suggestedPrefetch": [],
+   "_templateName": "FortniteGameMOTD",
+   "_title": "Creativenewsv2",
+   "alwaysShow": false,
+   "lastModified": "2021-10-04T20:11:41.880Z",
+   "news": {
+      "_type": "Battle Royale News v2",
+      "motds": []
+   }
+}
