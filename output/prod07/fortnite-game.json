@@ -1733,7 +1733,7 @@
       },
       "lastModified": "2018-11-07T06:37:42.201Z"
    },
-   "lastModified": "2024-12-13T23:46:46.148Z",
+   "lastModified": "2024-12-14T01:27:02.601Z",
    "leaderboardinformation": {
       "_activeDate": "2022-09-18T06:00:00.000Z",
       "_locale": "en-US",
@@ -39699,10 +39699,26 @@
       "_noIndex": true,
       "_templateName": "FortniteGameShopOfferVisuals",
       "_title": "shopOfferVisuals",
-      "lastModified": "2024-12-12T19:28:40.020Z",
+      "lastModified": "2024-12-14T01:27:02.601Z",
       "visualsList": {
          "_type": "ShopOfferVisualList",
          "offerPresentations": [
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-rmt-agencyrenegades-shoptile-swipe-1-1024x1024-1822ddc55a3c.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-rmt-agencyrenegades-light-tile-art-1024x1024-e17667929cb2.png"
+                  }
+               ],
+               "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_AgencyRenegadesPack.DAv2_Featured_AgencyRenegadesPack"
+            },
             {
                "_type": "ShopOfferPresentationData",
                "presentations": [
