@@ -5,10 +5,46 @@
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGameShopOfferVisuals",
    "_title": "shopOfferVisuals",
-   "lastModified": "2024-12-14T01:27:02.601Z",
+   "lastModified": "2024-12-16T23:10:00.900Z",
    "visualsList": {
       "_type": "ShopOfferVisualList",
       "offerPresentations": [
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-nutcracker-1024x1024-5080bac5661e.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-nutcracker-02-1024x1024-f5903b773324.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-nutcracker-03-1024x1024-0bb58af5a210.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-nutcracker-04-1024x1024-38a7660d1309.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-nutcracker-05-1024x1024-e0a08894248f.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-nutcracker-1024x1024-25553233962a.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Nutcracker.DAv2_Bundle_Featured_Nutcracker"
+         },
          {
             "_type": "ShopOfferPresentationData",
             "presentations": [
