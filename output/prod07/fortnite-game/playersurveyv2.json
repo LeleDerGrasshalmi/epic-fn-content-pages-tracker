@@ -5,7 +5,7 @@
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGamePlayerSurveyV2",
    "_title": "playersurveyv2",
-   "lastModified": "2024-12-12T14:51:21.124Z",
+   "lastModified": "2024-12-16T18:55:28.687Z",
    "surveyData": {
       "_type": "Player Survey V2 - Data Root",
       "bSurveysEnabled": true,
@@ -1248,6 +1248,20 @@
                   ],
                   "operation": "GreaterThan",
                   "type": "MostRecentlyCompleted"
+               }
+            ]
+         },
+         {
+            "_type": "Player Survey V2 - Condition Group",
+            "conditionGroupID": "Sprout_All",
+            "conditions": [
+               {
+                  "_type": "Player Survey V2 - Condition Level 1",
+                  "conditionInfo": [
+                     "playlist_sprout"
+                  ],
+                  "operation": "EqualTo",
+                  "type": "Playlist"
                }
             ]
          },
