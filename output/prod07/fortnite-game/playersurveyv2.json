@@ -14394,7 +14394,7 @@
                "FNBR_Heartbeats_PlatformSwitch",
                "Juno_HeartbeatsOnly_Cooldown",
                "Juno_Heartbeats_Platform_Exp_RateSwitch",
-               "Juno_All"
+               "Juno_Sprout_All"
             ],
             "hidden": false,
             "questions": [
