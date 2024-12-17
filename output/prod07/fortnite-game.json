@@ -1443,9 +1443,36 @@
       "_templateName": "FortniteGameMOTD",
       "_title": "emergencynoticev2",
       "emergencynotices": {
-         "_type": "Emergency Notices"
+         "_type": "Emergency Notices",
+         "emergencynotices": [
+            {
+               "_type": "CommonUI Emergency Notice Base",
+               "body": "Downtime for v33.11 begins at 7 AM ET (12:00 UTC). Matchmaking will be disabled 30 minutes beforehand.",
+               "hidden": false,
+               "playlists": [
+                  "playlist_pilgrimquickplay",
+                  "playlist_fmclubisland"
+               ],
+               "title": "Fortnite Festival Downtime"
+            },
+            {
+               "_type": "CommonUI Emergency Notice Base",
+               "body": "Downtime for v33.11 begins at 7 AM ET (12:00 UTC). Matchmaking will be disabled 30 minutes beforehand.",
+               "hidden": false,
+               "playlists": [
+                  "playlist_juno"
+               ],
+               "title": "LEGO Fortnite Downtime"
+            },
+            {
+               "_type": "CommonUI Emergency Notice Base",
+               "body": "Downtime for v33.11 begins at 7 AM ET (12:00 UTC). Matchmaking will be disabled 30 minutes beforehand.",
+               "hidden": false,
+               "title": " Scheduled Downtime"
+            }
+         ]
       },
-      "lastModified": "2024-12-13T10:37:03.608Z"
+      "lastModified": "2024-12-17T21:38:23.041Z"
    },
    "eventscreens": {
       "_activeDate": "2024-04-12T12:20:00.000Z",
@@ -1733,7 +1760,7 @@
       },
       "lastModified": "2018-11-07T06:37:42.201Z"
    },
-   "lastModified": "2024-12-16T23:29:26.931Z",
+   "lastModified": "2024-12-17T21:38:23.041Z",
    "leaderboardinformation": {
       "_activeDate": "2022-09-18T06:00:00.000Z",
       "_locale": "en-US",
