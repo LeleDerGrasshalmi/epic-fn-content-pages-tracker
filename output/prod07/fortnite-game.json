@@ -17642,7 +17642,7 @@
       "_noIndex": false,
       "_templateName": "FortniteGamePlayerSurveyV2",
       "_title": "playersurveyv2",
-      "lastModified": "2024-12-16T21:17:42.156Z",
+      "lastModified": "2024-12-16T22:06:50.232Z",
       "surveyData": {
          "_type": "Player Survey V2 - Data Root",
          "bSurveysEnabled": true,
@@ -25163,6 +25163,11 @@
                "textReplacementValues": [
                   {
                      "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Boons",
+                     "textID": "Boons"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Air and Water Sprites",
                      "textID": "Air and Water Sprites"
                   },
@@ -25349,6 +25354,26 @@
                "textReplacementValues": [
                   {
                      "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Chili Chug Splash",
+                     "textID": "Chili Chug Splash"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Peppermint Candy",
+                     "textID": "Peppermint Candy"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Christmas Presents",
+                     "textID": "Christmas Presents"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Blizzard Grenade",
+                     "textID": "Blizzard Grenade"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Typhoon Blade",
                      "textID": "Typhoon Blade"
                   },
@@ -25401,6 +25426,11 @@
                      "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Water Boon",
                      "textID": "Water Boon"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Reinforced Trap",
+                     "textID": "Reinforced Trap"
                   },
                   {
                      "_type": "Player Survey V2 - Localizable Text",
@@ -25466,6 +25496,11 @@
                      "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Big Bush Bomb",
                      "textID": "Big Bush Bomb"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Chug Splash",
+                     "textID": "Chug Splash"
                   },
                   {
                      "_type": "Player Survey V2 - Localizable Text",
@@ -25695,6 +25730,11 @@
                "_type": "Player Survey V2 - Custom Text Replacements",
                "textReplacementTag": "ITEMDC_Blastberry",
                "textReplacementValues": [
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Big Bush Bomb",
+                     "textID": "Big Bush Bomb"
+                  },
                   {
                      "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Charge Shotgun",
@@ -26464,6 +26504,11 @@
                "textReplacementValues": [
                   {
                      "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Boons",
+                     "textID": "Boons"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Air and Water Sprites",
                      "textID": "Air and Water Sprites"
                   },
@@ -26808,6 +26853,26 @@
                "textReplacementValues": [
                   {
                      "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Chili Chug Splash",
+                     "textID": "Chili Chug Splash"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Peppermint Candy",
+                     "textID": "Peppermint Candy"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Christmas Presents",
+                     "textID": "Christmas Presents"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Blizzard Grenade",
+                     "textID": "Blizzard Grenade"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Typhoon Blade",
                      "textID": "Typhoon Blade"
                   },
@@ -26930,6 +26995,11 @@
                      "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Big Bush Bomb",
                      "textID": "Big Bush Bomb"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Chug Splash",
+                     "textID": "Chug Splash"
                   },
                   {
                      "_type": "Player Survey V2 - Localizable Text",
