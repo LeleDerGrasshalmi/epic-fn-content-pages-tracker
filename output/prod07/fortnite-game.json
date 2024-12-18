@@ -1760,7 +1760,7 @@
       },
       "lastModified": "2018-11-07T06:37:42.201Z"
    },
-   "lastModified": "2024-12-17T23:44:41.054Z",
+   "lastModified": "2024-12-18T00:11:26.697Z",
    "leaderboardinformation": {
       "_activeDate": "2022-09-18T06:00:00.000Z",
       "_locale": "en-US",
@@ -38199,10 +38199,89 @@
       "_noIndex": true,
       "_templateName": "FortniteGameShopOfferVisuals",
       "_title": "shopOfferVisuals",
-      "lastModified": "2024-12-16T23:10:00.900Z",
+      "lastModified": "2024-12-18T00:11:26.697Z",
       "visualsList": {
          "_type": "ShopOfferVisualList",
          "offerPresentations": [
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-sunbeamquest-reactive-1024x1024-54e06c83ce33.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-sunbeamquest-1024x1024-170c283da75c.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.Juno",
+                     "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-sunbeamquestb-1024x1024-7e6465374f17.png"
+                  }
+               ],
+               "visualId": "/Game/Catalog/NewDisplayAssets/S25/DAv2_Character_SunbeamQuest.DAv2_Character_SunbeamQuest"
+            },
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-280-athena-commando-m-snowman-1024x1024-4eb572d0db65.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.Juno",
+                     "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-snowmana-1024x1024-0b5d7d9e51a8.png"
+                  }
+               ],
+               "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_280_M_Snowman.DAv2_CID_280_M_Snowman"
+            },
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-316-athena-commando-f-winterholiday-1024x1024-723c72847cce.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.Juno",
+                     "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-winterholidayb-1024x1024-d575579ac18f.png"
+                  }
+               ],
+               "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_316_F_WinterHoliday.DAv2_CID_316_F_WinterHoliday"
+            },
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-980-athena-commando-f-elf-1024x1024-ca3b816bd380.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-980-athena-commando-f-elf-2-1024x1024-f762018d8118.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-980-athena-commando-f-elf-3-1024x1024-84842157d73e.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.Juno",
+                     "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-elfb-1024x1024-3794de31c8a3.png"
+                  }
+               ],
+               "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_980_F_Elf.DAv2_CID_980_F_Elf"
+            },
             {
                "_type": "ShopOfferPresentationData",
                "presentations": [
