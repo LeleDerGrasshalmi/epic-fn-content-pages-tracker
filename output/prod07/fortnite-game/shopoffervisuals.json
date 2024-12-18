@@ -1,14 +1,46 @@
 {
-   "_activeDate": "2024-11-27T23:45:00.000Z",
+   "_activeDate": "2024-12-18T23:50:00.000Z",
    "_locale": "en-US",
    "_noIndex": true,
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGameShopOfferVisuals",
    "_title": "shopOfferVisuals",
-   "lastModified": "2024-12-18T20:04:36.114Z",
+   "lastModified": "2024-12-18T23:49:56.362Z",
    "visualsList": {
       "_type": "ShopOfferVisualList",
       "offerPresentations": [
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-pagetruffle-br-1024x1024-c30e23b772da.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-pagetruffle-1024x1024-a83f6cc755f4.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Bundle_Featured_PageTruffle.DAv2_Bundle_Featured_PageTruffle"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-pagetruffle-1024x1024-9bd09d2b848f.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-pagetruffle-juno-1024x1024-2a0c37cb418b.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Character_PageTruffle.DAv2_Character_PageTruffle"
+         },
          {
             "_type": "ShopOfferPresentationData",
             "presentations": [
