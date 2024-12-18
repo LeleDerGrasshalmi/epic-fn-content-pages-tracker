@@ -5,10 +5,26 @@
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGameShopOfferVisuals",
    "_title": "shopOfferVisuals",
-   "lastModified": "2024-12-18T00:11:26.697Z",
+   "lastModified": "2024-12-18T13:10:01.892Z",
    "visualsList": {
       "_type": "ShopOfferVisualList",
       "offerPresentations": [
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-lto-rmt-lasthour-storetile-1024x1024-a9484f261207.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-lto-rmt-lasthour-maskon-storetile-1024x1024-73c36829b1fc.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/S23/DAv2_RMT_ConfectionPop_QP.DAv2_RMT_ConfectionPop_QP"
+         },
          {
             "_type": "ShopOfferPresentationData",
             "presentations": [
