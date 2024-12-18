@@ -1,5 +1,5 @@
 {
-   "_activeDate": "2024-12-10T09:00:00.000Z",
+   "_activeDate": "2024-12-18T12:30:00.000Z",
    "_locale": "en-US",
    "_noIndex": false,
    "_suggestedPrefetch": [],
@@ -31,14 +31,14 @@
             "bHasNextCrewPackDetails": false,
             "details": {
                "_type": "Crew Tile Details Data",
-               "backgroundImageURL": "https://cdn2.unrealengine.com/t-ui-crewbenefits-crewlegacy-3300-background-1920x1080-eb607a0017f3.png",
+               "backgroundImageURL": "https://cdn2.unrealengine.com/crew-benefits-screen---crew-legacy-background-texture-1920x1080-fc0b68038596.png",
                "color1Hex": "0744AC",
                "color2Hex": "45D2F5",
                "color4Hex": "09081A",
-               "description": "Crew-exclusive cosmetics that unlock a new stage every month that you are an active subscriber to the Fortnite Crew. December Crew Styles coming December 18th!",
-               "secondaryTileImageURL": "https://cdn2.unrealengine.com/t-ui-crewbenefits-crewlegacy-3300tile-260x160-cc634bf3a9dc.png",
+               "description": "Crew-exclusive cosmetics that unlock a new stage every month that you are an active subscriber to the Fortnite Crew.",
+               "secondaryTileImageURL": "https://cdn2.unrealengine.com/crew-benefits---recurring-benefits-crew-legacy-tile-260x160-f1aea071fe65.png",
                "tag": "AvailableUntilBenefit",
-               "tileImageURL": "https://cdn2.unrealengine.com/t-ui-crewbenefits-crewlegacy-3300tile-260x160-cc634bf3a9dc.png",
+               "tileImageURL": "https://cdn2.unrealengine.com/crew-benefits---recurring-benefits-crew-legacy-tile-260x160-f1aea071fe65.png",
                "title": "Crew Styles"
             },
             "nextDetails": {
@@ -844,7 +844,6 @@
                "_type": "Crew Item Shop Tile Data",
                "itemShopTileImages": {
                   "_type": "Crew Global Image",
-                  "nextTileImageURL": "https://cdn2.unrealengine.com/fneco-31-40-subs-leafyvest-ingame-legacy-pack-tile-440x864-440x864-814f6cabcde3.png",
                   "tileImageURL": "https://cdn2.unrealengine.com/fneco-31-40-subs-leafyvest-ingame-legacy-pack-tile-440x864-440x864-814f6cabcde3.png"
                },
                "nextViolatorIntensity": "High",
@@ -854,7 +853,7 @@
          }
       ]
    },
-   "lastModified": "2024-12-09T18:06:49.245Z",
+   "lastModified": "2024-12-17T22:13:37.580Z",
    "progressiveInfo": {
       "_type": "SubscriptionProgressiveInfo",
       "infoModalEntries": [

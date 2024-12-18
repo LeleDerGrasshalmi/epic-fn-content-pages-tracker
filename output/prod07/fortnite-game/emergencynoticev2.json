@@ -6,34 +6,7 @@
    "_templateName": "FortniteGameMOTD",
    "_title": "emergencynoticev2",
    "emergencynotices": {
-      "_type": "Emergency Notices",
-      "emergencynotices": [
-         {
-            "_type": "CommonUI Emergency Notice Base",
-            "body": "Downtime for v33.11 begins at 7 AM ET (12:00 UTC). Matchmaking will be disabled 30 minutes beforehand.",
-            "hidden": false,
-            "playlists": [
-               "playlist_pilgrimquickplay",
-               "playlist_fmclubisland"
-            ],
-            "title": "Fortnite Festival Downtime"
-         },
-         {
-            "_type": "CommonUI Emergency Notice Base",
-            "body": "Downtime for v33.11 begins at 7 AM ET (12:00 UTC). Matchmaking will be disabled 30 minutes beforehand.",
-            "hidden": false,
-            "playlists": [
-               "playlist_juno"
-            ],
-            "title": "LEGO Fortnite Downtime"
-         },
-         {
-            "_type": "CommonUI Emergency Notice Base",
-            "body": "Downtime for v33.11 begins at 7 AM ET (12:00 UTC). Matchmaking will be disabled 30 minutes beforehand.",
-            "hidden": false,
-            "title": " Scheduled Downtime"
-         }
-      ]
+      "_type": "Emergency Notices"
    },
-   "lastModified": "2024-12-17T21:38:23.041Z"
+   "lastModified": "2024-12-18T12:18:32.082Z"
 }
