@@ -5,7 +5,7 @@
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGameShopOfferVisuals",
    "_title": "shopOfferVisuals",
-   "lastModified": "2024-12-18T13:10:01.892Z",
+   "lastModified": "2024-12-18T20:04:36.114Z",
    "visualsList": {
       "_type": "ShopOfferVisualList",
       "offerPresentations": [
@@ -322,33 +322,6 @@
                {
                   "_type": "ShopOfferPresentation",
                   "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-hid-073-athena-commando-f-scuba-1024x1024-04229807d513.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.Juno",
-                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-sharkshankerb-1024x1024-42fb86a7d1b5.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_073_F_Scuba.DAv2_CID_073_F_Scuba"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-steaksting-1024x1024-e3b680b9fd18.png"
-               }
-            ],
-            "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Character_SteakSting.DAv2_Character_SteakSting"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
                   "renderImage": "https://cdn2.unrealengine.com/t-athenaglider-024-reaper-v2-1024x1024-8d9bfcd917ed.png"
                }
             ],
@@ -461,22 +434,6 @@
                {
                   "_type": "ShopOfferPresentation",
                   "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-featured-elbowchat-1024x1024-1f67832cefb3.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.Juno",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-featured-elbowchat-jn-1024x1024-849af415b8de.png"
-               }
-            ],
-            "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Bundle_Featured_ElbowChat.DAv2_Bundle_Featured_ElbowChat"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
                   "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-haybrush-1024x1024-67add972efa7.png"
                },
                {
@@ -502,17 +459,6 @@
                }
             ],
             "visualId": "/OfferCatalog/NewDisplayAssets/S31/DAv2_Bundle_Featured_BurntBagel.DAv2_Bundle_Featured_BurntBagel"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-donutaccbundle-1024x1024-015d2b1bfdd4.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundles_Donut_Accessories1.DAv2_Bundles_Donut_Accessories1"
          },
          {
             "_type": "ShopOfferPresentationData",
@@ -547,37 +493,6 @@
                {
                   "_type": "ShopOfferPresentation",
                   "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-ht-brightdisk-04-2-1024x1024-d92a12c48ae0.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-ht-brightdisk-02-2-1024x1024-76628ca14708.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-ht-brightdisk-01-2-1024x1024-3d3fa04bb631.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-ht-brightdisk-03-2-1024x1024-93945337b0d9.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.Juno",
-                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-brightdisk-1024x1024-8ad445864b0f.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/S31/DAv2_Character_BrightDisk.DAv2_Character_BrightDisk"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
                   "renderImage": "https://cdn2.unrealengine.com/flakes-br-2-2048x1024-71b582c081e5.png"
                },
                {
@@ -592,17 +507,6 @@
                }
             ],
             "visualId": "/Game/Catalog/NewDisplayAssets/S23/DAv2_Bundle_Featured_OceanBreeze.DAv2_Bundle_Featured_OceanBreeze"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-ui-luqp-psychicaphid-da-2048x2048-7e031b6cc3cb.png"
-               }
-            ],
-            "visualId": "/Plugins/OfferCatalog/NewDisplayAssets/S31/DAv2_RMT_PsychicAphid.DAv2_RMT_PsychicAphid"
          },
          {
             "_type": "ShopOfferPresentationData",
@@ -632,22 +536,6 @@
                {
                   "_type": "ShopOfferPresentation",
                   "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-darkbomber-br-v2-1024x1024-cb394bb3356f.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.Juno",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-darkbomber-juno-v2-1024x1024-5c4f6317129d.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/S28/DAv2_Bundle_Featured_DarkBomber.DAv2_Bundle_Featured_DarkBomber"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
                   "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-sweetletter-1024x1024-14ff2fa18577.png"
                },
                {
@@ -669,57 +557,10 @@
                {
                   "_type": "ShopOfferPresentation",
                   "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-speeddial-1024x1024-4e99fa6b98a1.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-speeddial-02-1024x1024-d1f1a243260c.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-speeddial-03-1024x1024-a9ca2730343a.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-speeddial-04-1024x1024-b70465f0e6a6.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-bundle-speeddial-05-1024x1024-fd45beb12139.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/S28/DAv2_Bundle_Featured_SpeedDial.DAv2_Bundle_Featured_SpeedDial"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
                   "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-upbeatiguana-gear-v2-1024x1024-495cd353b126.png"
                }
             ],
             "visualId": "/Game/Catalog/NewDisplayAssets/S30/DAv2_Bundle_Featured_UpbeatIguana_Gear.DAv2_Bundle_Featured_UpbeatIguana_Gear"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cattlejar-1024x1024-17b32a135fc7.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.Juno",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cattlejar-juno-1024x1024-acc8b3908c48.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/S31/DAv2_Character_CattleJar.DAv2_Character_CattleJar"
          },
          {
             "_type": "ShopOfferPresentationData",
@@ -779,115 +620,6 @@
                }
             ],
             "visualId": "/Game/Catalog/NewDisplayAssets/S25/DAv2_Bundle_Featured_PeacefulPoem.DAv2_Bundle_Featured_PeacefulPoem"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/tui-featured-micspeeddial-1024x1024-b32e0f1eb57e.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/S31/DAv2_Sparks_Mic_SpeedDial.DAv2_Sparks_Mic_SpeedDial"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/tui-featured-bassspeeddial-1024x1024-f49a2a32bbe6.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/S31/DAv2_Sparks_Bass_SpeedDial.DAv2_Sparks_Bass_SpeedDial"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-character-paddedarmororder-1024x1024-b9c57e56890a.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.Juno",
-                  "renderImage": "https://cdn2.unrealengine.com/tuifeaturedfigurepaddedarmorordera-1024x1024-89b753893f7b.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_061_M_PaddedArmorOrder.DAv2_CID_A_061_M_PaddedArmorOrder"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles--skigbr-1024x1024-41e49039472d.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Ski_GBR.DAv2_Bundle_Featured_Ski_GBR"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles--skifra-1024x1024-9175cd5d4180.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Ski_FRA.DAv2_Bundle_Featured_Ski_FRA"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles--skican-1024x1024-de31efa7caa8.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Ski_CAN.DAv2_Bundle_Featured_Ski_CAN"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-streetracerwhite-1024x1024-85508197cdef.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/S22/DAv2_Bundle_Featured_StreetRacerWhite.DAv2_Bundle_Featured_StreetRacerWhite"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/staticrewind-herotiletexture-2048x2048-ce35be1cd80e.png"
-               },
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.Juno",
-                  "renderImage": "https://cdn2.unrealengine.com/billboard-staticrewind-herotile-juno-2048x2048-0a9704ffcdfa.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/S30/DAv2_Character_StaticRewind.DAv2_Character_StaticRewind"
-         },
-         {
-            "_type": "ShopOfferPresentationData",
-            "presentations": [
-               {
-                  "_type": "ShopOfferPresentation",
-                  "productTag": "Product.BR",
-                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-rmt-lockjaw-starter-pack-da-1024x1024-e8b81349cefe.png"
-               }
-            ],
-            "visualId": "/Game/Catalog/NewDisplayAssets/S30/DAv2_RMT_LockjawStarter_QP.DAv2_RMT_LockjawStarter_QP"
          },
          {
             "_type": "ShopOfferPresentationData",
