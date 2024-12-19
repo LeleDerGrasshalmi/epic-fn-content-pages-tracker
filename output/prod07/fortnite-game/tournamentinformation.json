@@ -11,7 +11,7 @@
       "_noIndex": false,
       "_templateName": "tournament-reference",
       "_title": "bettotest_aqua",
-      "lastModified": "2024-12-19T14:29:52.244Z",
+      "lastModified": "2024-12-19T15:00:09.475Z",
       "tournament_info": {
          "_type": "Tournament Display Info",
          "background_left_color": "A0D0B0",
@@ -37,7 +37,8 @@
          "title_color": "FFFFFF",
          "title_line_1": "BettoTest Last",
          "title_line_2": "Chance Qualifier",
-         "tournament_display_id": "bettotest_aqua"
+         "tournament_display_id": "bettotest_aqua",
+         "tournament_view_background_image": "https://cdn2.unrealengine.com/bettotest-aqua-1560x1024-1560x1024-4f7c13a34636.jpg"
       }
    },
    "bettotestAquaBr": {
@@ -148,7 +149,7 @@
       "contentName": "tournaments",
       "enableReferences": true
    },
-   "lastModified": "2024-12-19T14:29:52.244Z",
+   "lastModified": "2024-12-19T15:00:09.475Z",
    "limitedTestEventSolo": {
       "_activeDate": "2019-01-02T08:39:26.593Z",
       "_locale": "en-US",
