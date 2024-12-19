@@ -5,7 +5,7 @@
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGameShopOfferVisuals",
    "_title": "shopOfferVisuals",
-   "lastModified": "2024-12-18T23:49:56.362Z",
+   "lastModified": "2024-12-19T15:57:46.861Z",
    "visualsList": {
       "_type": "ShopOfferVisualList",
       "offerPresentations": [
@@ -40,6 +40,38 @@
                }
             ],
             "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Character_PageTruffle.DAv2_Character_PageTruffle"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-tangerinesoap-a-1024x1024-386de11a6161.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-tangerinesoapa-1024x1024-735bf7ff43fc.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Character_TangerineSoap_A.DAv2_Character_TangerineSoap_A"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-tangerinesoap-b-1024x1024-f4b40cdd688e.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-tangerinesoapb-1024x1024-a1ea3e03e19d.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Character_TangerineSoap_B.DAv2_Character_TangerineSoap_B"
          },
          {
             "_type": "ShopOfferPresentationData",
