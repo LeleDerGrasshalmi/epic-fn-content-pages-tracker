@@ -11,7 +11,7 @@
       "_noIndex": false,
       "_templateName": "tournament-reference",
       "_title": "bettotest_aqua",
-      "lastModified": "2024-11-28T16:39:44.563Z",
+      "lastModified": "2024-12-19T14:29:52.244Z",
       "tournament_info": {
          "_type": "Tournament Display Info",
          "background_left_color": "A0D0B0",
@@ -33,6 +33,7 @@
          "secondary_color": "161616",
          "shadow_color": "161616",
          "short_format_title": "FNCS LCQ Duos",
+         "square_poster_image": "https://cdn2.unrealengine.com/bettotest-aqua-squaregreen02-800x800-cb6424adb1f5.png",
          "title_color": "FFFFFF",
          "title_line_1": "BettoTest Last",
          "title_line_2": "Chance Qualifier",
@@ -147,7 +148,7 @@
       "contentName": "tournaments",
       "enableReferences": true
    },
-   "lastModified": "2024-12-13T16:27:45.614Z",
+   "lastModified": "2024-12-19T14:29:52.244Z",
    "limitedTestEventSolo": {
       "_activeDate": "2019-01-02T08:39:26.593Z",
       "_locale": "en-US",
