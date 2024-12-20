@@ -10,11 +10,11 @@
       "emergencynotices": [
          {
             "_type": "CommonUI Emergency Notice Base",
-            "body": "Unranked Ballistic is currently disabled, and Ranked Ballistic is the primary way to play while we resolve an issue.",
+            "body": "Unranked Ballistic is disabled until a future update while we resolve an issue. Drop into Ranked Ballistic and get tactical!",
             "hidden": false,
             "title": "Ballistic Availability"
          }
       ]
    },
-   "lastModified": "2024-12-20T20:24:15.694Z"
+   "lastModified": "2024-12-20T20:43:56.936Z"
 }
