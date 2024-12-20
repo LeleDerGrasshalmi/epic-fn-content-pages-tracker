@@ -6,7 +6,15 @@
    "_templateName": "FortniteGameMOTD",
    "_title": "emergencynoticev2",
    "emergencynotices": {
-      "_type": "Emergency Notices"
+      "_type": "Emergency Notices",
+      "emergencynotices": [
+         {
+            "_type": "CommonUI Emergency Notice Base",
+            "body": "Unranked Ballistic is currently disabled, and Ranked Ballistic is the primary way to play while we resolve an issue. \n",
+            "hidden": false,
+            "title": "Ballistic Availability"
+         }
+      ]
    },
-   "lastModified": "2024-12-18T12:18:32.082Z"
+   "lastModified": "2024-12-20T18:32:58.766Z"
 }

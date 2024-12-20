@@ -1,11 +1,11 @@
 {
-   "_activeDate": "2024-12-20T14:30:00.000Z",
+   "_activeDate": "2024-12-20T20:00:00.000Z",
    "_locale": "en-US",
    "_noIndex": false,
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGamePlayerSurveyV2",
    "_title": "playersurveyv2",
-   "lastModified": "2024-12-20T15:47:29.083Z",
+   "lastModified": "2024-12-20T15:57:22.919Z",
    "surveyData": {
       "_type": "Player Survey V2 - Data Root",
       "bSurveysEnabled": true,
@@ -9216,6 +9216,31 @@
             "textReplacementValues": [
                {
                   "_type": "Player Survey V2 - Localizable Text",
+                  "localizedText": "Chili Chug Splash",
+                  "textID": "Chili Chug Splash"
+               },
+               {
+                  "_type": "Player Survey V2 - Localizable Text",
+                  "localizedText": "Peppermint Candy",
+                  "textID": "Peppermint Candy"
+               },
+               {
+                  "_type": "Player Survey V2 - Localizable Text",
+                  "localizedText": "Christmas Presents",
+                  "textID": "Christmas Presents"
+               },
+               {
+                  "_type": "Player Survey V2 - Localizable Text",
+                  "localizedText": "Icy Feet",
+                  "textID": "Icy Feet"
+               },
+               {
+                  "_type": "Player Survey V2 - Localizable Text",
+                  "localizedText": "Blizzard Grenade",
+                  "textID": "Blizzard Grenade"
+               },
+               {
+                  "_type": "Player Survey V2 - Localizable Text",
                   "localizedText": "Typhoon Blade",
                   "textID": "Typhoon Blade"
                },
@@ -9338,6 +9363,11 @@
                   "_type": "Player Survey V2 - Localizable Text",
                   "localizedText": "Big Bush Bomb",
                   "textID": "Big Bush Bomb"
+               },
+               {
+                  "_type": "Player Survey V2 - Localizable Text",
+                  "localizedText": "Chug Splash",
+                  "textID": "Chug Splash"
                },
                {
                   "_type": "Player Survey V2 - Localizable Text",
