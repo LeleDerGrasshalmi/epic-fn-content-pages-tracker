@@ -1732,7 +1732,7 @@
       },
       "lastModified": "2018-11-07T06:37:42.201Z"
    },
-   "lastModified": "2024-12-20T04:39:28.882Z",
+   "lastModified": "2024-12-20T15:47:29.083Z",
    "leaderboardinformation": {
       "_activeDate": "2022-09-18T06:00:00.000Z",
       "_locale": "en-US",
@@ -18999,7 +18999,7 @@
       "_noIndex": false,
       "_templateName": "FortniteGamePlayerSurveyV2",
       "_title": "playersurveyv2",
-      "lastModified": "2024-12-18T18:21:59.380Z",
+      "lastModified": "2024-12-20T15:47:29.083Z",
       "surveyData": {
          "_type": "Player Survey V2 - Data Root",
          "bSurveysEnabled": true,
@@ -28210,26 +28210,6 @@
                "textReplacementValues": [
                   {
                      "_type": "Player Survey V2 - Localizable Text",
-                     "localizedText": "Chili Chug Splash",
-                     "textID": "Chili Chug Splash"
-                  },
-                  {
-                     "_type": "Player Survey V2 - Localizable Text",
-                     "localizedText": "Peppermint Candy",
-                     "textID": "Peppermint Candy"
-                  },
-                  {
-                     "_type": "Player Survey V2 - Localizable Text",
-                     "localizedText": "Christmas Presents",
-                     "textID": "Christmas Presents"
-                  },
-                  {
-                     "_type": "Player Survey V2 - Localizable Text",
-                     "localizedText": "Blizzard Grenade",
-                     "textID": "Blizzard Grenade"
-                  },
-                  {
-                     "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Typhoon Blade",
                      "textID": "Typhoon Blade"
                   },
@@ -28352,11 +28332,6 @@
                      "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Big Bush Bomb",
                      "textID": "Big Bush Bomb"
-                  },
-                  {
-                     "_type": "Player Survey V2 - Localizable Text",
-                     "localizedText": "Chug Splash",
-                     "textID": "Chug Splash"
                   },
                   {
                      "_type": "Player Survey V2 - Localizable Text",
@@ -38125,7 +38100,7 @@
       "_noIndex": false,
       "_templateName": "FortniteGameRadioStations",
       "_title": "Radio Stations",
-      "lastModified": "2024-11-01T13:38:14.485Z",
+      "lastModified": "2024-12-17T15:29:56.669Z",
       "radioStationList": {
          "_type": "RadioStationList",
          "stations": [
@@ -38135,7 +38110,7 @@
                   "*UGC*",
                   "*Creative*"
                ],
-               "resourceID": "eaIPyhOJafbnZUIYnZ",
+               "resourceID": "rdWxjjhVHWyqWozyMU",
                "stationImage": "https://cdn2.unrealengine.com/s15-radio-rl-rockroyale-256x256-256x256-c2b19d746f09.png",
                "title": "Rock & Royale"
             },
@@ -38151,7 +38126,7 @@
                   "*UGC*",
                   "*Creative*"
                ],
-               "resourceID": "utHgQidSxmOzBNWSRs",
+               "resourceID": "liZWCXyJDbxNMHWlyk",
                "stationImage": "https://cdn2.unrealengine.com/s13-radio-radio-yonder-256x256-256x256-f9a05292b87c.png",
                "title": "Radio Yonder"
             },
@@ -38161,7 +38136,7 @@
                   "*UGC*",
                   "*Creative*"
                ],
-               "resourceID": "gjqlfLXmalyNaDhzvK",
+               "resourceID": "SesARghrQNsflAozoD",
                "stationImage": "https://cdn2.unrealengine.com/s13-radio-beat-box-256x256-256x256-19277d48c502.png",
                "title": "Beat Box"
             },
@@ -38171,19 +38146,9 @@
                   "*UGC*",
                   "*Creative*"
                ],
-               "resourceID": "dWkLynOluUUuCAPJHA",
+               "resourceID": "ixWkbUWHJfzaZVePXJ",
                "stationImage": "https://cdn2.unrealengine.com/s13-radio-power-play-256x256-256x256-2f3bacc8ecbf.png",
                "title": "Power Play"
-            },
-            {
-               "_type": "RadioStationItem",
-               "gameplayTagDenylist": [
-                  "*UGC*",
-                  "*Creative*"
-               ],
-               "resourceID": "WQaQbnGzaPXXMHGQXt",
-               "stationImage": "https://cdn2.unrealengine.com/s13-radio-icon-series-256x256-256x256-10d5c5081910.png",
-               "title": "Icon Radio"
             }
          ]
       }

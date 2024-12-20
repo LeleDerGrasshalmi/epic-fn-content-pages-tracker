@@ -5,7 +5,7 @@
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGameRadioStations",
    "_title": "Radio Stations",
-   "lastModified": "2024-11-01T13:38:14.485Z",
+   "lastModified": "2024-12-17T15:29:56.669Z",
    "radioStationList": {
       "_type": "RadioStationList",
       "stations": [
@@ -15,7 +15,7 @@
                "*UGC*",
                "*Creative*"
             ],
-            "resourceID": "eaIPyhOJafbnZUIYnZ",
+            "resourceID": "rdWxjjhVHWyqWozyMU",
             "stationImage": "https://cdn2.unrealengine.com/s15-radio-rl-rockroyale-256x256-256x256-c2b19d746f09.png",
             "title": "Rock & Royale"
          },
@@ -31,7 +31,7 @@
                "*UGC*",
                "*Creative*"
             ],
-            "resourceID": "utHgQidSxmOzBNWSRs",
+            "resourceID": "liZWCXyJDbxNMHWlyk",
             "stationImage": "https://cdn2.unrealengine.com/s13-radio-radio-yonder-256x256-256x256-f9a05292b87c.png",
             "title": "Radio Yonder"
          },
@@ -41,7 +41,7 @@
                "*UGC*",
                "*Creative*"
             ],
-            "resourceID": "gjqlfLXmalyNaDhzvK",
+            "resourceID": "SesARghrQNsflAozoD",
             "stationImage": "https://cdn2.unrealengine.com/s13-radio-beat-box-256x256-256x256-19277d48c502.png",
             "title": "Beat Box"
          },
@@ -51,19 +51,9 @@
                "*UGC*",
                "*Creative*"
             ],
-            "resourceID": "dWkLynOluUUuCAPJHA",
+            "resourceID": "ixWkbUWHJfzaZVePXJ",
             "stationImage": "https://cdn2.unrealengine.com/s13-radio-power-play-256x256-256x256-2f3bacc8ecbf.png",
             "title": "Power Play"
-         },
-         {
-            "_type": "RadioStationItem",
-            "gameplayTagDenylist": [
-               "*UGC*",
-               "*Creative*"
-            ],
-            "resourceID": "WQaQbnGzaPXXMHGQXt",
-            "stationImage": "https://cdn2.unrealengine.com/s13-radio-icon-series-256x256-256x256-10d5c5081910.png",
-            "title": "Icon Radio"
          }
       ]
    }
