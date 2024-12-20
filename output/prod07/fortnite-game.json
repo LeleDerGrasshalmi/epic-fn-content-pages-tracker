@@ -18994,12 +18994,12 @@
       }
    },
    "playersurveyv2": {
-      "_activeDate": "2024-12-11T05:00:00.000Z",
+      "_activeDate": "2024-12-20T14:30:00.000Z",
       "_locale": "en-US",
       "_noIndex": false,
       "_templateName": "FortniteGamePlayerSurveyV2",
       "_title": "playersurveyv2",
-      "lastModified": "2024-12-16T22:06:50.232Z",
+      "lastModified": "2024-12-18T18:21:59.380Z",
       "surveyData": {
          "_type": "Player Survey V2 - Data Root",
          "bSurveysEnabled": true,
@@ -26711,6 +26711,26 @@
                "textReplacementValues": [
                   {
                      "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Chili Chug Splash",
+                     "textID": "Chili Chug Splash"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Peppermint Candy",
+                     "textID": "Peppermint Candy"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Christmas Presents",
+                     "textID": "Christmas Presents"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Blizzard Grenade",
+                     "textID": "Blizzard Grenade"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Typhoon Blade",
                      "textID": "Typhoon Blade"
                   },
@@ -26833,6 +26853,11 @@
                      "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Big Bush Bomb",
                      "textID": "Big Bush Bomb"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Chug Splash",
+                     "textID": "Chug Splash"
                   },
                   {
                      "_type": "Player Survey V2 - Localizable Text",
@@ -28185,6 +28210,26 @@
                "textReplacementValues": [
                   {
                      "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Chili Chug Splash",
+                     "textID": "Chili Chug Splash"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Peppermint Candy",
+                     "textID": "Peppermint Candy"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Christmas Presents",
+                     "textID": "Christmas Presents"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Blizzard Grenade",
+                     "textID": "Blizzard Grenade"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Typhoon Blade",
                      "textID": "Typhoon Blade"
                   },
@@ -28307,6 +28352,11 @@
                      "_type": "Player Survey V2 - Localizable Text",
                      "localizedText": "Big Bush Bomb",
                      "textID": "Big Bush Bomb"
+                  },
+                  {
+                     "_type": "Player Survey V2 - Localizable Text",
+                     "localizedText": "Chug Splash",
+                     "textID": "Chug Splash"
                   },
                   {
                      "_type": "Player Survey V2 - Localizable Text",
