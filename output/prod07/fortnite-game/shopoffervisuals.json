@@ -5,10 +5,46 @@
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGameShopOfferVisuals",
    "_title": "shopOfferVisuals",
-   "lastModified": "2024-12-19T15:57:46.861Z",
+   "lastModified": "2024-12-22T14:56:40.979Z",
    "visualsList": {
       "_type": "ShopOfferVisualList",
       "offerPresentations": [
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-tennisleash-1024x1024-f7f5e7d654f1.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-tennisleash-01-1024x1024-cccaa4760c83.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-tennisleash-02-1024x1024-e377c3be777f.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-tennisleash-03-1024x1024-7a66366e86e4.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-tennisleash-04-1024x1024-df2c177228bf.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-tennisleash-05-1024x1024-80cad56c1c19.png"
+               }
+            ],
+            "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Bundle_Featured_TennisLeash.DAv2_Bundle_Featured_TennisLeash"
+         },
          {
             "_type": "ShopOfferPresentationData",
             "presentations": [
