@@ -1,12 +1,12 @@
 {
-   "_activeDate": "2024-12-21T23:20:19.787Z",
+   "_activeDate": "2024-12-22T16:46:52.589Z",
    "_locale": "en-US",
    "_metaTags": "",
    "_noIndex": false,
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGameMPItemShop",
    "_title": "mp-item-shop",
-   "lastModified": "2024-12-21T23:20:19.787Z",
+   "lastModified": "2024-12-22T16:46:52.589Z",
    "shopData": {
       "_type": "MP Item Shop - Data Root",
       "sections": [
@@ -131,7 +131,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 183,
+                     "stackRankValue": 182,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -376,7 +376,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 181,
+                     "stackRankValue": 180,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -486,7 +486,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 193,
+                     "stackRankValue": 192,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -578,7 +578,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 194,
+                     "stackRankValue": 193,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -706,7 +706,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 188,
+                     "stackRankValue": 187,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -815,7 +815,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 187,
+                     "stackRankValue": 186,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -924,7 +924,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 182,
+                     "stackRankValue": 181,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -1277,7 +1277,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 191,
+                     "stackRankValue": 190,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -1387,7 +1387,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 190,
+                     "stackRankValue": 189,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -1479,7 +1479,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 189,
+                     "stackRankValue": 188,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -1890,7 +1890,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 185,
+                     "stackRankValue": 184,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -1980,7 +1980,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 186,
+                     "stackRankValue": 185,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -2161,7 +2161,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 180,
+                     "stackRankValue": 179,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -2359,7 +2359,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 179,
+                     "stackRankValue": 178,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -2507,7 +2507,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 178,
+                     "stackRankValue": 196,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -2745,7 +2745,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 184,
+                     "stackRankValue": 183,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -2809,7 +2809,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 192,
+                     "stackRankValue": 191,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -2908,7 +2908,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 196,
+                     "stackRankValue": 195,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
@@ -2971,7 +2971,7 @@
                      "_type": "MP Item Shop - Stack Rank",
                      "context": "sparks",
                      "productTag": "Product.Sparks",
-                     "stackRankValue": 195,
+                     "stackRankValue": 194,
                      "startDate": "2024-12-22T00:00:00.000Z"
                   }
                ]
