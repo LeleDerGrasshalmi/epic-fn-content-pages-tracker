@@ -40101,15 +40101,95 @@
       "lastModified": "2021-03-23T00:45:30.609Z"
    },
    "shopoffervisuals": {
-      "_activeDate": "2024-12-18T23:50:00.000Z",
+      "_activeDate": "2024-12-24T23:45:00.000Z",
       "_locale": "en-US",
       "_noIndex": true,
       "_templateName": "FortniteGameShopOfferVisuals",
       "_title": "shopOfferVisuals",
-      "lastModified": "2024-12-22T14:56:40.979Z",
+      "lastModified": "2024-12-24T15:28:06.379Z",
       "visualsList": {
          "_type": "ShopOfferVisualList",
          "offerPresentations": [
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-lateralbundle-1024x1024-39ceac34b081.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-lateralbundle-02-1024x1024-9e65eb69df64.png"
+                  }
+               ],
+               "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Lateral.DAv2_Bundle_Featured_Lateral"
+            },
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-renegaderaiderholiday-t-1024x1024-d3677eb31098.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.Juno",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-renegaderaiderholiday-1024x1024-6c4ecd58ff68.png"
+                  }
+               ],
+               "visualId": "/Game/Catalog/NewDisplayAssets/S23/DAv2_Bundle_Featured_RenegadeRaiderHoliday.DAv2_Bundle_Featured_RenegadeRaiderHoliday"
+            },
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.Juno",
+                     "renderImage": "https://cdn2.unrealengine.com/beettread-smol-1080x1080-92f6b0c137ee.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-beettread-1024x1024-c1d9a6acec7c.png"
+                  }
+               ],
+               "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Character_BeetTread.DAv2_Character_BeetTread"
+            },
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-sequinpie-1024x1024-038347334fa4.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.Juno",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-sequinpie-juno-1024x1024-2dfcf0889364.png"
+                  }
+               ],
+               "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Character_SequinPie.DAv2_Character_SequinPie"
+            },
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-sequinpiebeettread-1024x1024-4b4a7acc4b97.png"
+                  },
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.Juno",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-sequinpiebeettread-juno-1024x1024-5900c4c1db51.png"
+                  }
+               ],
+               "visualId": "/OfferCatalog/NewDisplayAssets/S33/DAv2_Bundle_Featured_SequinPieBeetTread.DAv2_Bundle_Featured_SequinPieBeetTread"
+            },
             {
                "_type": "ShopOfferPresentationData",
                "presentations": [
