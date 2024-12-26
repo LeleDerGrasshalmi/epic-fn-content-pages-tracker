@@ -3378,6 +3378,49 @@
          "tt": "Cat's Prowl"
       }
    },
+   "centuries": {
+      "_activeDate": "2024-12-26T14:30:00.000Z",
+      "_locale": "en-US",
+      "_noIndex": false,
+      "_templateName": "track",
+      "_title": "centuries",
+      "lastModified": "2024-12-17T18:55:12.178Z",
+      "track": {
+         "_type": "SparkTrack",
+         "an": "Fall Out Boy",
+         "ar": "E",
+         "au": "https://cdn2.unrealengine.com/f2ybb8eqd02ansct-512x512-2474ff5ddd18.jpg",
+         "dn": 226,
+         "in": {
+            "_type": "SparkTrackIntensities",
+            "ba": 2,
+            "ds": 1,
+            "gr": 2,
+            "pb": 2,
+            "pd": 2,
+            "pg": 2,
+            "vl": 3
+         },
+         "isrc": "USUM71412644",
+         "jc": "1114-7014-5455",
+         "ld": "https://cdn2.unrealengine.com/centuries-4b7dab935372.lad",
+         "mk": "E",
+         "mm": "Minor",
+         "mt": 88,
+         "mu": "https://cdn2.unrealengine.com/zggmp0t5xzv5htla-92f6d304b9e1.dat",
+         "nu": "2025-01-03T00:00:00.000Z",
+         "qi": "{\"sid\":\"86b18391-999d-47b6-b591-5e4290320692\",\"pid\":\"a3ab468d-cf59-43a8-881e-f101040589ec\",\"stereoId\":\"1d2bf1d0-02eb-4834-a940-d063f62c019b\",\"instrumentalId\":\"637f6df6-e723-421f-ac4d-c454c36db832\",\"title\":\"centuries\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[0,0]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[0,0]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[0,0]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[0,0]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[0,0]}],\"preview\":{\"starttime\":70.2569}}",
+         "ry": 2014,
+         "sib": "Bass",
+         "sid": "Drum",
+         "sig": "Keyboard",
+         "siv": "Vocals",
+         "sn": "centuries",
+         "su": "bf79c86d-97fa-4494-b8a8-3d8b4dc25006",
+         "ti": "SparksSong:sid_placeholder_398",
+         "tt": "Centuries"
+      }
+   },
    "change": {
       "_activeDate": "2024-04-23T08:00:00.000Z",
       "_locale": "en-US",
@@ -8082,6 +8125,52 @@
          "tt": "Kiss Me More"
       }
    },
+   "kryptonite": {
+      "_activeDate": "2024-12-26T14:30:00.000Z",
+      "_locale": "en-US",
+      "_noIndex": false,
+      "_templateName": "track",
+      "_title": "kryptonite",
+      "lastModified": "2024-12-17T18:59:33.498Z",
+      "track": {
+         "_type": "SparkTrack",
+         "an": "3 Doors Down",
+         "ar": "E",
+         "au": "https://cdn2.unrealengine.com/2izu4ufrvqipncpj-512x512-420a02a609f8.jpg",
+         "dn": 240,
+         "gt": [
+            "Jam-LoopIsUnpitched-Beat"
+         ],
+         "in": {
+            "_type": "SparkTrackIntensities",
+            "ba": 1,
+            "ds": 3,
+            "gr": 2,
+            "pb": 1,
+            "pd": 3,
+            "pg": 2,
+            "vl": 2
+         },
+         "isrc": "USUR19980187",
+         "jc": "5817-7397-1387",
+         "ld": "https://cdn2.unrealengine.com/kryptonite-d9667c94df65.lad",
+         "mk": "B",
+         "mm": "Minor",
+         "mt": 99,
+         "mu": "https://cdn2.unrealengine.com/3mzdres6b6xtshg4-58e1d81de042.dat",
+         "nu": "2025-01-03T00:00:00.000Z",
+         "qi": "{\"sid\":\"6b100342-c84f-469a-b529-fecd392e12f2\",\"pid\":\"61d6f817-faf2-4ba7-b4ff-cf8ccd278248\",\"stereoId\":\"c29c8db4-5966-440e-b757-e4d9651f2f05\",\"title\":\"kryptonite\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":72.7045}}",
+         "ry": 2000,
+         "sib": "Bass",
+         "sid": "Drum",
+         "sig": "Guitar",
+         "siv": "Vocals",
+         "sn": "kryptonite",
+         "su": "97d227a8-ff7b-4c00-99ae-2da982d01dce",
+         "ti": "SparksSong:sid_placeholder_300",
+         "tt": "Kryptonite"
+      }
+   },
    "larrysplace": {
       "_activeDate": "2024-11-02T06:00:00.000Z",
       "_locale": "en-US",
@@ -8123,7 +8212,7 @@
          "tt": "Larry's Place"
       }
    },
-   "lastModified": "2024-12-17T18:19:01.085Z",
+   "lastModified": "2024-12-17T20:37:59.650Z",
    "leanback": {
       "_activeDate": "2024-11-14T14:30:00.000Z",
       "_locale": "en-US",
@@ -13114,6 +13203,49 @@
          "tt": "Suddenly I See"
       }
    },
+   "sugarweregoindown": {
+      "_activeDate": "2024-12-26T14:30:00.000Z",
+      "_locale": "en-US",
+      "_noIndex": false,
+      "_templateName": "track",
+      "_title": "sugarweregoindown",
+      "lastModified": "2024-12-17T20:34:04.411Z",
+      "track": {
+         "_type": "SparkTrack",
+         "an": "Fall Out Boy",
+         "ar": "E",
+         "au": "https://cdn2.unrealengine.com/ma2r5vxqkkd73uuq-512x512-8df4cb2f4430.jpg",
+         "dn": 227,
+         "in": {
+            "_type": "SparkTrackIntensities",
+            "ba": 2,
+            "ds": 4,
+            "gr": 3,
+            "pb": 2,
+            "pd": 4,
+            "pg": 3,
+            "vl": 3
+         },
+         "isrc": "USIR20500201",
+         "jc": "7573-9965-2041",
+         "ld": "https://cdn2.unrealengine.com/sugarweregoindown-fc628e866884.lad",
+         "mk": "D",
+         "mm": "Major",
+         "mt": 162,
+         "mu": "https://cdn2.unrealengine.com/p02wwdaanpjk5mhr-13d76ef75d5a.dat",
+         "nu": "2025-01-03T00:00:00.000Z",
+         "qi": "{\"sid\":\"60ff4f61-16b8-4064-b496-72acb93426da\",\"pid\":\"672ba7e3-daa0-48c4-aab3-e032b26910d5\",\"stereoId\":\"3df70491-51a8-4709-a17a-cc780ef76017\",\"instrumentalId\":\"954c5490-80d0-46dc-9190-ad30df8065a5\",\"title\":\"sugarweregoindown\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":124.453}}",
+         "ry": 2005,
+         "sib": "Bass",
+         "sid": "Drum",
+         "sig": "Guitar",
+         "siv": "Vocals",
+         "sn": "sugarweregoindown",
+         "su": "8bb27cd2-3aff-454a-acda-d7b666534189",
+         "ti": "SparksSong:sid_placeholder_388",
+         "tt": "Sugar, We're Goin Down"
+      }
+   },
    "superbass": {
       "_activeDate": "2024-11-07T14:30:00.000Z",
       "_locale": "en-US",
@@ -14562,6 +14694,49 @@
          "tt": "The Way Life Goes"
       }
    },
+   "thisaintascene": {
+      "_activeDate": "2024-12-26T14:30:00.000Z",
+      "_locale": "en-US",
+      "_noIndex": false,
+      "_templateName": "track",
+      "_title": "thisaintascene",
+      "lastModified": "2024-12-17T20:36:30.330Z",
+      "track": {
+         "_type": "SparkTrack",
+         "an": "Fall Out Boy",
+         "ar": "T",
+         "au": "https://cdn2.unrealengine.com/xo61upuwl45vezyq-512x512-110fe8bb0870.jpg",
+         "dn": 213,
+         "in": {
+            "_type": "SparkTrackIntensities",
+            "ba": 2,
+            "ds": 4,
+            "gr": 3,
+            "pb": 3,
+            "pd": 4,
+            "pg": 3,
+            "vl": 2
+         },
+         "isrc": "USUM70619023",
+         "jc": "0513-9767-1878",
+         "ld": "https://cdn2.unrealengine.com/thisaintascene-ae19e10e58f1.lad",
+         "mk": "A",
+         "mm": "Minor",
+         "mt": 100,
+         "mu": "https://cdn2.unrealengine.com/xpzwyiuw74ksxtu3-5e63bb72b91b.dat",
+         "nu": "2025-01-03T00:00:00.000Z",
+         "qi": "{\"sid\":\"36de8ed9-e837-4541-8fbb-33c298719a17\",\"pid\":\"b0951a54-3898-4d83-9814-51210f121ff7\",\"stereoId\":\"c6682362-75e5-4094-ac02-1f27bc95cecc\",\"title\":\"thisaintascene\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":107.96}}",
+         "ry": 2006,
+         "sib": "Bass",
+         "sid": "Drum",
+         "sig": "Guitar",
+         "siv": "Vocals",
+         "sn": "thisaintascene",
+         "su": "080cfba3-cd91-4027-b431-5908ff845fbe",
+         "ti": "SparksSong:sid_placeholder_336",
+         "tt": "This Ain't A Scene, It's An Arms Race"
+      }
+   },
    "thisishowwedoit": {
       "_activeDate": "2024-04-04T15:00:42.793Z",
       "_locale": "en-US",
@@ -14972,6 +15147,49 @@
          "tb": "https://cdn2.unrealengine.com/ezuyiarcc6lxdjoj-64x64-80618ad20076.jpg",
          "ti": "SparksSong:sid_placeholder_313",
          "tt": "Tropical Heat"
+      }
+   },
+   "tubthumping": {
+      "_activeDate": "2024-12-26T14:30:00.000Z",
+      "_locale": "en-US",
+      "_noIndex": false,
+      "_templateName": "track",
+      "_title": "tubthumping",
+      "lastModified": "2024-12-17T20:37:59.650Z",
+      "track": {
+         "_type": "SparkTrack",
+         "an": "Chumbawamba",
+         "ar": "T",
+         "au": "https://cdn2.unrealengine.com/qsmvzveokevr64ce-512x512-23f25a57bbff.jpg",
+         "dn": 219,
+         "in": {
+            "_type": "SparkTrackIntensities",
+            "ba": 1,
+            "ds": 4,
+            "gr": 2,
+            "pb": 0,
+            "pd": 4,
+            "pg": 3,
+            "vl": 3
+         },
+         "isrc": "DEA349700542",
+         "jc": "5383-3445-7836",
+         "ld": "https://cdn2.unrealengine.com/tubthumping-8c25ff3ed80b.lad",
+         "mk": "D",
+         "mm": "Major",
+         "mt": 104,
+         "mu": "https://cdn2.unrealengine.com/vy3utwggs3wgc976-996de1a86c02.dat",
+         "nu": "2025-01-03T00:00:00.000Z",
+         "qi": "{\"sid\":\"8e764bf0-0e44-45e6-a835-0300fd6c9e7d\",\"pid\":\"063f674c-8de7-4957-91ed-5d6d72006a46\",\"stereoId\":\"cbfa9688-0479-48bc-85e8-e078d9f3a79b\",\"instrumentalId\":\"9986ab49-4513-4242-85a5-ff450bd280e6\",\"title\":\"tubthumping\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":105.146}}",
+         "ry": 1997,
+         "sib": "Bass",
+         "sid": "Drum",
+         "sig": "Guitar",
+         "siv": "Vocals",
+         "sn": "tubthumping",
+         "su": "3cdf116d-44c7-434b-a3e1-88e228131789",
+         "ti": "SparksSong:sid_placeholder_386",
+         "tt": "Tubthumping"
       }
    },
    "turnup": {
