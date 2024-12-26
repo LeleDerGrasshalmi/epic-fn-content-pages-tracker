@@ -1,5 +1,5 @@
 {
-   "_activeDate": "2024-12-18T12:30:00.000Z",
+   "_activeDate": "2024-12-26T18:00:00.000Z",
    "_locale": "en-US",
    "_noIndex": false,
    "_suggestedPrefetch": [],
@@ -166,7 +166,7 @@
          },
          {
             "_type": "Crew Tile Data",
-            "bHasNextCrewPackDetails": false,
+            "bHasNextCrewPackDetails": true,
             "crewPackItems": [
                "AthenaCharacter:character_cranelaugh",
                "AthenaBackpack:backpack_cranelaugh",
@@ -189,20 +189,25 @@
                "title": "December Crew Pack"
             },
             "nextCrewPackItems": [
-               "AthenaCharacter:character_cranelaugh",
-               "AthenaBackpack:backpack_cranelaugh",
-               "AthenaPickaxe:pickaxe_cranelaugh"
+               "AthenaCharacter:character_dashsurge_sepia",
+               "AthenaBackpack:backpack_dashsurge_sepia",
+               "AthenaPickaxe:pickaxe_dashsurge_sepia"
             ],
             "nextDetails": {
                "_type": "Crew Tile Details Data",
-               "backgroundImageURL": "https://cdn2.unrealengine.com/fneco-32-10-subs-cranelaugh-ingame-upsell-crewpack-1920x1080-81d36dccbb1d.jpg",
+               "backgroundImageURL": "https://cdn2.unrealengine.com/jan-25-crew-benefits-screen---crew-pack-background-texture-1920x1080-818edc28289f.png",
+               "color1Hex": "3E5A17",
+               "color2Hex": "A8D864",
+               "color3Hex": "7CB32D",
+               "color4Hex": "22310C",
                "colorA": "",
                "colorB": "",
                "colorC": "",
-               "description": "Get the Lady of Cranes Outfit, Back Bling, and Pickaxe!",
+               "description": "Get the Durrr Taisho Outfit, Back Bling, and Pickaxe!",
+               "secondaryTileImageURL": "https://cdn2.unrealengine.com/jan-25-crew-benefits---recurring-benefits-crew-pack-tile-260x160-4c405ee008f3.png",
                "tag": "MonthlyBenefit",
-               "tileImageURL": "https://cdn2.unrealengine.com/fneco-32-10-subs-cranelaugh-ingame-inset-tile-crewoutfit-151x198-aba7c705e3f1.png",
-               "title": "December Crew Pack"
+               "tileImageURL": "https://cdn2.unrealengine.com/jan-25-crew-benefits---recurring-benefits-crew-pack-tile-260x160-4c405ee008f3.png",
+               "title": "January Crew Pack"
             },
             "tileLabel": "Crew Pack",
             "tileType": "CrewPack"
@@ -853,7 +858,7 @@
          }
       ]
    },
-   "lastModified": "2024-12-17T22:13:37.580Z",
+   "lastModified": "2024-12-19T21:39:32.381Z",
    "progressiveInfo": {
       "_type": "SubscriptionProgressiveInfo",
       "infoModalEntries": [
