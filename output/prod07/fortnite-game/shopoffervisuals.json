@@ -1,14 +1,25 @@
 {
-   "_activeDate": "2024-12-24T23:45:00.000Z",
+   "_activeDate": "2024-12-26T23:45:00.000Z",
    "_locale": "en-US",
    "_noIndex": true,
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGameShopOfferVisuals",
    "_title": "shopOfferVisuals",
-   "lastModified": "2024-12-24T15:28:06.379Z",
+   "lastModified": "2024-12-26T22:15:58.172Z",
    "visualsList": {
       "_type": "ShopOfferVisualList",
       "offerPresentations": [
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-bundle-placeholder-11-1024x1024-b58b87b15940.png"
+               }
+            ],
+            "visualId": "b_sid_placeholder_11"
+         },
          {
             "_type": "ShopOfferPresentationData",
             "presentations": [
@@ -944,6 +955,44 @@
          }
       ],
       "visuals": [
+         {
+            "_type": "ShopOfferVisual",
+            "materials": [
+               {
+                  "_type": "ShopOfferVisualMaterial",
+                  "parameters": [
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_A",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "Background_Color_B",
+                        "type": "vector",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector",
+                           "w": 1
+                        }
+                     },
+                     {
+                        "_type": "ShopOfferVisualMaterialParameter",
+                        "name": "OfferImage",
+                        "textureValue": "https://cdn2.unrealengine.com/t-ui-featured-bundle-placeholder-11-1024x1024-b58b87b15940.png",
+                        "type": "texture",
+                        "vectorValue": {
+                           "_type": "ShopOfferVisualMaterialParameterVector"
+                        }
+                     }
+                  ]
+               }
+            ],
+            "visualID": "b_sid_placeholder_11"
+         },
          {
             "_type": "ShopOfferVisual",
             "materials": [
