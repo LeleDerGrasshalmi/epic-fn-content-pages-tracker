@@ -1,14 +1,82 @@
 {
-   "_activeDate": "2024-12-26T23:45:00.000Z",
+   "_activeDate": "2024-12-27T23:45:00.000Z",
    "_locale": "en-US",
    "_noIndex": true,
    "_suggestedPrefetch": [],
    "_templateName": "FortniteGameShopOfferVisuals",
    "_title": "shopOfferVisuals",
-   "lastModified": "2024-12-27T14:48:25.279Z",
+   "lastModified": "2024-12-27T22:24:59.974Z",
    "visualsList": {
       "_type": "ShopOfferVisualList",
       "offerPresentations": [
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-lollipoptrickster-01-1024x1024-75a21934164c.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-lollipoptrickster-02-1024x1024-b3c10695f344.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-lollipoptrickster-1024x1024-300fdb054f98.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenabundles-lollipoptrickster-02-1024x1024-6724104c0992.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_LollipopTrickster.DAv2_Bundle_Featured_LollipopTrickster"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-a-063-athena-commando-f-cottoncandy-1024x1024-f41d211ad9ac.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-vtid-a-129-cottoncandy-styleb-1024x1024-30c757396852.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-cottoncandyb-1024x1024-28868084323c.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_063_F_CottonCandy.DAv2_CID_A_063_F_CottonCandy"
+         },
+         {
+            "_type": "ShopOfferPresentationData",
+            "presentations": [
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-704-athena-commando-f-lollipop-1024x1024-82c4e3cb5246.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.BR",
+                  "renderImage": "https://cdn2.unrealengine.com/t-athenasoldiers-cid-704-athena-commando-f-lollipoptrickster-1024x1024-92420a0974bf.png"
+               },
+               {
+                  "_type": "ShopOfferPresentation",
+                  "productTag": "Product.Juno",
+                  "renderImage": "https://cdn2.unrealengine.com/t-ui-featured-figure-lollipoptricksterb-1024x1024-24048ce6c9d3.png"
+               }
+            ],
+            "visualId": "/Game/Catalog/NewDisplayAssets/DAv2_CID_704_F_LollipopTrickster.DAv2_CID_704_F_LollipopTrickster"
+         },
          {
             "_type": "ShopOfferPresentationData",
             "presentations": [
