@@ -1745,7 +1745,7 @@
       },
       "lastModified": "2018-11-07T06:37:42.201Z"
    },
-   "lastModified": "2024-12-27T00:59:25.736Z",
+   "lastModified": "2024-12-27T14:48:25.279Z",
    "leaderboardinformation": {
       "_activeDate": "2022-09-18T06:00:00.000Z",
       "_locale": "en-US",
@@ -40386,10 +40386,21 @@
       "_noIndex": true,
       "_templateName": "FortniteGameShopOfferVisuals",
       "_title": "shopOfferVisuals",
-      "lastModified": "2024-12-26T22:15:58.172Z",
+      "lastModified": "2024-12-27T14:48:25.279Z",
       "visualsList": {
          "_type": "ShopOfferVisualList",
          "offerPresentations": [
+            {
+               "_type": "ShopOfferPresentationData",
+               "presentations": [
+                  {
+                     "_type": "ShopOfferPresentation",
+                     "productTag": "Product.BR",
+                     "renderImage": "https://cdn2.unrealengine.com/t-athenaemotes-armybunny-1024x1024-30aa10e950b3.png"
+                  }
+               ],
+               "visualId": "/Game/Catalog/NewDisplayAssets/S30/DAv2_EID_ArmyBunny.DAv2_EID_ArmyBunny"
+            },
             {
                "_type": "ShopOfferPresentationData",
                "presentations": [
